@@ -1,0 +1,519 @@
+{"text": "me gustaria cambiar el correo electronico asociado a mi cuenta, pero no se como hacerlo, alguien puede ayudarme?", "label": "cuenta_acceso"}
+{"text": "intente cambiar mi contraseña pero ahora no puedo entrar a la plataforma", "label": "cuenta_acceso"}
+{"text": "la aplicacion se queda congelada cuando intento importar una base de datos de sql, ya intente con diferente versiones del archivo y sigue pasando lo mismo", "label": "problema_tecnico"}
+{"text": "No puedo imprimir mi factura del mes actual, me da un error al intentar descargarla", "label": "facturacion_pagos"}
+{"text": "hola, tengo un problema con el acceso a la aplicación, cuando intento ingresar con mi usuario y contraseña, me sale un mensaje que dice 'usuario o contraseña incorrectos', ya he intentado restablecer la contraseña pero el problema sigue, no se que pueda ser", "label": "problema_tecnico"}
+{"text": "mi empresa ya no utiliza el software de gestion de proyectos, como podemos dar de baja la cuenta", "label": "cancelacion_baja"}
+{"text": "tengo un problema con el modulo de facturacion, no me permite agregar nuevos items a la factura, me sale un mensaje de error que dice 'no se puede conectar con el servidor', ya verifique mi conexion a internet y esta todo ok, que puede ser?", "label": "problema_tecnico"}
+{"text": "Me gustaria saber porque mi tarjeta de credito fue rechazada, llame al banco y me dijeron que no habia nada mal con ella", "label": "facturacion_pagos"}
+{"text": "tengo varios usuarios en mi equipo y les di permisos de administrador pero no puedo agregar nuevos permisos a sus cuentas, alguien me puede decir como hacerlo?", "label": "cuenta_acceso"}
+{"text": "necesito cambiar mi metodo de pago porque el actual no me funciona", "label": "facturacion_pagos"}
+{"text": "Tengo un problema con mi cuenta, quiero darla de baja pero no quiero perder mis datos, antes de hacerlo quisiera saber si hay alguna forma de guardarlos", "label": "cancelacion_baja"}
+{"text": "Me olvidé mi contraseña y no puedo recuperarla, ya que el correo electrónico que utilicé para registrarme ya no existe, ¿hay alguna forma de recuperar el acceso a mi cuenta sin necesidad de ese correo?", "label": "cuenta_acceso"}
+{"text": "necesito recuperar mi cuenta porque me olvide la contrasena y no tengo acceso a mi correo", "label": "cuenta_acceso"}
+{"text": "el modulo de correo electronico esta fallando, no puedo enviar correos a los clientes y me muestra un error de servidor, ya verifique la configuracion del smtp y todo parece estar bien", "label": "problema_tecnico"}
+{"text": "no puedo acceder a la seccion de configuracion del sistema, me sale un mensaje que dice que no tengo permisos, pero si tengo permisos de administrador, ya intente reiniciar el sistema y nada", "label": "problema_tecnico"}
+{"text": "quisiera comparar el plan estandar con el avanzado, cuales son las principales diferncias entre ellos", "label": "consulta_producto"}
+{"text": "Quiero cambiarme a un plan mas barato porque no estoy utilizando todo lo que me ofrecen, ¿como hago para hacer el cambio sin perder mis datos?", "label": "facturacion_pagos"}
+{"text": "el precio del plan basico subio sin que nadie me avisara, eso es un abuso", "label": "facturacion_pagos"}
+{"text": "Me interesa saber mas sobre la herramienta de informes, ¿se puede personalizar para agregar campos adicionales?", "label": "consulta_producto"}
+{"text": "tengo problema con mi clave ya que no me deja cambiarla", "label": "cuenta_acceso"}
+{"text": "Tengo que cancelar mi cuenta de inmediato ya que he encontrado un servicio similar mas barato y no quiero seguir pagando por algo que no me conviene", "label": "cancelacion_baja"}
+{"text": "Me estoy intentando loguear en la plataforma pero no puedo, ya que me sale un error que dice que mi usuario o contraseña son incorrectos, lo cual sé que es falso porque acabo de verificar mis datos en la factura de pago y todo coincide, ¿alguien podría ayudarme a solucionar este problema?", "label": "cuenta_acceso"}
+{"text": "tengo que cancelar mi suscripcion al plan pro porque mi empresa esta pasando por un momento dificil", "label": "cancelacion_baja"}
+{"text": "Me dicen que debo $50 pero mi plan es de $29.99, alguien puede ayudarme?", "label": "facturacion_pagos"}
+{"text": "mi cuenta esta bloqueada por intentos de login fallidos, pero yo no fui quien los realizo, como puedo desbloquearla y cambiar mi contraseña para evitar que pase de nuevo?", "label": "cuenta_acceso"}
+{"text": "Estimados, tengo una pregunta sobre la facturación anual. Mi empresa está considerando cambiar de un plan mensual a uno anual para ahorrar costos. ¿Cómo puedo hacer para cambiar el plan y cuál sería el costo anual exacto? También me gustaría saber si hay algún descuento por pagar anualmente en lugar de mensualmente.", "label": "facturacion_pagos"}
+{"text": "estoy teniendo un problema con el reporte de ventas, me muestra datos incorrectos, ya verifique los datos en la base de datos y estan correctos, pero el reporte me muestra datos diferentes, ya intenté refrescar la cache y sigue igual", "label": "problema_tecnico"}
+{"text": "Hola, necesito saber si puedo cambiar mi plan de pago mensual a anual, actualmente estoy pagando $49 por mes y quiero saber si hay algún descuento por pagar anticipado", "label": "facturacion_pagos"}
+{"text": "como hago para integrar con google drive?", "label": "consulta_producto"}
+{"text": "Me cobraron por un servicio que no uso, necesito que me reembolsen lo más pronto posible", "label": "facturacion_pagos"}
+{"text": "me gustaria saber si se puede utilizar el software para gestionar proyectos de manera colaborativa, y si hay algun limite en la cantidad de tareas que se pueden crear", "label": "consulta_producto"}
+{"text": "tengo un problema con las notificaciones por email, no se como hacer para que me lleguen correctamente", "label": "consulta_producto"}
+{"text": "Me gustaria saber si el producto soporta la integracion con Google Drive para compartir archivos con mi equipo", "label": "consulta_producto"}
+{"text": "como hago para cambiar a un plan mas barato, el actual me esta costando mucho", "label": "cancelacion_baja"}
+{"text": "quisiera saber si el sistema es compatible con navegadores antiguos como internet explorer, necesito que funcione en una pc vieja", "label": "consulta_producto"}
+{"text": "no entiendo como funciona la autenticacion de 2 pasos, podeis ayudarme?", "label": "consulta_producto"}
+{"text": "La herramienta de monitoreo de redes esta dando alertas falsas, ya ajuste los parametros pero sigue pasando, es muy frustrante, alguien puede revisar esto?", "label": "problema_tecnico"}
+{"text": "estoy mirando el plan de pago y no se bien cual es la diferencia entre los 3 planes que tenes", "label": "consulta_producto"}
+{"text": "necesito recuperar mi cuenta, olvide la clave y el mail de recuperacion no funciona, alguien puede ayudarme a solucionar esto?", "label": "cuenta_acceso"}
+{"text": "no puedo entrar a mi cuenta porque me pide un codigo de verificacion que no tengo", "label": "cuenta_acceso"}
+{"text": "mi jefe me dio permisos de administrador pero cuando entro al panel no me appearcen las opciones de administrador", "label": "cuenta_acceso"}
+{"text": "estoy pensando en cambiar de plan pero no entiendo muy bien la diferencia entre el plan profesional y el empresarial, alguien podria explicarmelo?", "label": "consulta_producto"}
+{"text": "Tengo una pregunta sobre cancelar mi cuenta, si lo hago, puedo volver a suscribirme despues sin perder nada?", "label": "cancelacion_baja"}
+{"text": "Quiero saber porque mi tarjeta fue rechazada si tienen todo mis datos correctos, es la tercera vez que me pasa y estoy harto", "label": "facturacion_pagos"}
+{"text": "Tengo un problema con la herramienta de chat en vivo, cuando intento responder a un mensaje, me sale un error que dice 'no se puede enviar el mensaje', ya he intentado actualizar el navegador y limpiar la cache, pero el problema persiste, estoy utilizando Chrome", "label": "problema_tecnico"}
+{"text": "tengo un problema con el plan actual y quiero cambiar a uno mas barato, como hago?", "label": "cancelacion_baja"}
+{"text": "Me aparece un error 500 al intentar cargar el dashboard de ventas", "label": "problema_tecnico"}
+{"text": "Hola, estoy intentando cancelar mi cuenta pero no encuentro la opcion, puedo hacerlo desde aca? o tengo que llamar a alguien?", "label": "cancelacion_baja"}
+{"text": "buenas, quiero eliminar mi cuenta definitivamente, como hago para hacerlo? ya intente en configuracion pero no veo la opcion", "label": "cancelacion_baja"}
+{"text": "tengo el plan premium, puedo cambiar a uno mas barato sin perder mis datos? como hago para hacer el downgrade?", "label": "cancelacion_baja"}
+{"text": "quisiera saber cómo puedo eliminar la verificación en dos pasos de mi cuenta, no me gusta esta opción de seguridad y quiero desactivarla lo antes posible", "label": "cuenta_acceso"}
+{"text": "me cobraron un monto incorrecto, puedo tener ayuda para arreglar esto?", "label": "facturacion_pagos"}
+{"text": "me interesa cambiar a un plan mas barato, pero no se si perderia los datos que subi hasta ahora, alguien puede decirme que pasa con los datos en caso de cambio de plan", "label": "facturacion_pagos"}
+{"text": "Tengo un problema con el pago de mi suscripción, no me deja pagar con paypal", "label": "facturacion_pagos"}
+{"text": "He estado intentando acceder a mi cuenta durante horas pero no puedo, dice que mi cuenta ha sido bloqueada por intentos de inicio de sesión fallidos, ¿cómo puedo desbloquear mi cuenta y cambiar mi contraseña?", "label": "cuenta_acceso"}
+{"text": "necesito ayuda urgentemente con mi cuenta, no puedo acceder porque la verificación en dos pasos está activada y no tengo acceso al teléfono que utilicé para registrarme", "label": "cuenta_acceso"}
+{"text": "Hola, estoy teniendo problemas con la visualizacion de los datos en el dashboard, a veces los graficos no se muestran correctamente y otras veces se muestran datos erroneos", "label": "problema_tecnico"}
+{"text": "me gustaria cambiar de plan, el actual es muy caro y no lo uso completo", "label": "facturacion_pagos"}
+{"text": "estoy evaluando herramientas de gestion de proyectos y me gustaria saber si la vuestra permite la creacion de diagramas de gantt y si es compatible con trello", "label": "consulta_producto"}
+{"text": "tengo un problema con la verificacion en dos pasos, me llega el codigo de verificacion por sms pero cuando lo pongo me dice que es incorrecto, ya intente varios veces pero no puedo avanzar", "label": "cuenta_acceso"}
+{"text": "estoy tratando de hacer una integracion con google drive pero no consigo que funcione, me dice que la api key es invalida, ayuda!", "label": "consulta_producto"}
+{"text": "me gustaria actualizar mi plan a uno mas caro pero no se si es posible hacerlo a mitad de mes", "label": "facturacion_pagos"}
+{"text": "Estoy intentando cancelar mi suscripcion pero no puedo encontrar la opcion para hacerlo, podrian ayudarme?", "label": "cancelacion_baja"}
+{"text": "Hola, estoy tratando de cancelar mi suscripcion pero no se como hacerlo, ya busque en el sitio pero no encontre la opcion", "label": "cancelacion_baja"}
+{"text": "No logro iniciar sesión en mi cuenta, siempre me dice que mi usuario o contraseña son incorrectos, he intentado resetear mi contraseña pero el enlace de recuperación no funciona, ¿alguien puede ayudarme?", "label": "cuenta_acceso"}
+{"text": "donde puedo encontrar la opcion para pausar mi cuenta por un mes?", "label": "cancelacion_baja"}
+{"text": "Me estoy volviendo loco porque no puedo pagar mi factura del mes pasado, ya intente con 3 tarjetas diferentes y siempre me dice que hay un error, alguien me puede ayudar?", "label": "facturacion_pagos"}
+{"text": "El buscador interno no está devolviendo resultados correctos, busco por nombre de cliente y me trae registros que no corresponden.", "label": "problema_tecnico"}
+{"text": "Necesito un reembolso parcial por que solo utilice el servicio durante 2 semanas del mes, ¿es posible hacer eso?", "label": "facturacion_pagos"}
+{"text": "Necesito ayuda con la función de importación de datos, siempre que intento importar un archivo CSV me sale un error de 'formato inválido', ya verifique que el archivo esté en el formato correcto y sigue sin funcionar", "label": "problema_tecnico"}
+{"text": "Estoy tratando de pagar mi factura pero me da un error al intentar pagar con mi tarjeta de credito, ¿pueden ayudarme a resolver este problema?", "label": "facturacion_pagos"}
+{"text": "mi compañero de trabajo puede entrar a la plataforma pero yo no, aunque tenemos los mismos permisos", "label": "cuenta_acceso"}
+{"text": "estoy teniendo un problema con la herramienta de programación de tareas, cuando intento programar una tarea para que se ejecute automáticamente, no se ejecuta, ya he verificado la configuración y los permisos pero no encuentro el problema", "label": "problema_tecnico"}
+{"text": "Hola, estoy teniendo un problema con el acceso a mi cuenta, me sale un mensaje que dice que he superado el número de intentos de inicio de sesión, pero yo no he intentado entrar tantas veces, alguien me puede ayudar a solucionar esto?", "label": "cuenta_acceso"}
+{"text": "como hago para asignar permisos a los usuarios en la plataforma, quiero que algunos tengan acceso solo a ciertas secciones", "label": "consulta_producto"}
+{"text": "Quiero downgrade de plan en la plataforma de gestión de clientes, ya que he reducido mi equipo y no necesito tantas licencias. Me gustaría cambiar al plan estándar, ¿cuál es el procedimiento para hacer este cambio y cuándo surtirá efecto?", "label": "cancelacion_baja"}
+{"text": "Necesito cancelar mi cuenta porque estoy migrando a otra plataforma", "label": "cancelacion_baja"}
+{"text": "como hago para cancelar mi suscripcion? no puedo encontrar la opcion", "label": "cancelacion_baja"}
+{"text": "necesito ayuda con la restauracion de datos, accidentalmente borre una carpeta importante y no se como recuperarla, es urgente", "label": "consulta_producto"}
+{"text": "¿El soporte técnico es las 24 hrs o solo en horarios laborables? Me preocupa porque mi equipo trabaja en diferentes zonas horarias", "label": "consulta_producto"}
+{"text": "tengo una consulta antes de cancelar mi cuenta, ¿se pueden exportar los datos de contacto y los correos electrónicos enviados?", "label": "cancelacion_baja"}
+{"text": "Estoy evaluando contratar el servicio para mi empresa, ¿ofrecen alguna demo personalizada o prueba extendida?", "label": "consulta_producto"}
+{"text": "necesito un comprobante de pago para poder hacer la declaracion de impuestos, como puedo obtenerlo", "label": "facturacion_pagos"}
+{"text": "necesito dar de baja mi cuenta de prueba porque ya no la voy a usar mas", "label": "cancelacion_baja"}
+{"text": "Quisiera saber como puedo pausar mi cuenta durante 6 meses, estoy viajando y no voy a tener acceso a internet, no quiero perder mis datos pero no voy a usar el servicio", "label": "cancelacion_baja"}
+{"text": "¿el producto es compatible con mac?", "label": "consulta_producto"}
+{"text": "Tengo un problema con mi cuenta, alguien intento acceder a ella y ahora estoy bloqueado, ¿cual es el proceso para desbloquear mi cuenta y cambiar mi contraseña?", "label": "cuenta_acceso"}
+{"text": "Tengo un problema con el acceso a mi cuenta, cuando trato de iniciar sesión me dice que mi usuario o contraseña son incorrectos, ya he intentado 3 veces y no puedo entrar, tengo una reunión importante en una hora y necesito acceder a los informes del sistema", "label": "cuenta_acceso"}
+{"text": "tengo una duda con el precio de mi plan, porque en el sitio web dice que cuesta menos de lo que me cobran cada mes, alguien puede darme una explicacion", "label": "facturacion_pagos"}
+{"text": "Hola, cuando intento acceder al modulo de proyectos, me sale un mensaje de error que dice 'no tiene acceso a este modulo', aunque yo sí tengo permisos para acceder a este modulo, ya he intentado reiniciar el sistema y volver a intentarlo, pero el problema sigue, estoy utilizando la version 2.5 del software", "label": "problema_tecnico"}
+{"text": "no entiendo por que en la factura aparece un cargo de \"servicio adicional\" que yo nunca contrate, expliquenme", "label": "facturacion_pagos"}
+{"text": "Me gustaria saber mas sobre la integracion con google drive, no se si el plan basico lo incluye", "label": "consulta_producto"}
+{"text": "Hola, queria preguntar si puedo cancelar mi suscripcion y luego volver a registrarme con el mismo correo electronico, necesito hacer algunos cambios en mi cuenta", "label": "cancelacion_baja"}
+{"text": "buenas, tengo un problemita con la configuracion de los permisos de usuario, no se como hacer para que solo algunos miembros del equipo puedan acceder a ciertos datos", "label": "consulta_producto"}
+{"text": "la herramienta de seguimiento de proyectos no esta funcionando bien, los proyectos no se actualizan automaticamente y tengo que hacerlo manualmente, ya intente reiniciar el sistema y nada", "label": "problema_tecnico"}
+{"text": "cambio de mail y ahora no puedo iniciar sesion", "label": "cuenta_acceso"}
+{"text": "¿se puede personalizar el dashboard de inicio para cada usuario?", "label": "consulta_producto"}
+{"text": "Estimados, queria saber como puedo cancelar mi suscripcion al servicio de respaldo de datos, ya que mi empresa cambio a otra plataforma y no la voy a utilizar mas, ¿como puedo hacer para cancelar la suscripcion y evitar cargos futuros, y tambien queria saber si puedo obtener una copia de seguridad de mis datos antes de cancelar la cuenta?", "label": "cancelacion_baja"}
+{"text": "me esta pasando algo raro con el editor de texto en el sistema, cuando intento escribir un mensaje largo, se corta y no puedo seleccionar el texto para copiar y pegar, ya intente con diferentes navegadores pero es lo mismo", "label": "problema_tecnico"}
+{"text": "¿ofrecen soporte en español para el plan básico?", "label": "consulta_producto"}
+{"text": "queria preguntar si puedo tener un descuento por pagar por anticipado, no se si es posible", "label": "facturacion_pagos"}
+{"text": "no se porque cada mes me cobran un monto diferente, pensaba que el precio era fijo, alguien puede explicarme que pasa", "label": "facturacion_pagos"}
+{"text": "desde la última actualización la plataforma se queda pegada en la pantalla de carga, ya intenté con diferentes navegadores y nada", "label": "problema_tecnico"}
+{"text": "hace una semana que el sistema de notificaciones no me envia correos electronicos, ya verifique la configuracion y todo parece estar en orden, pero sigo sin recibir notificaciones", "label": "problema_tecnico"}
+{"text": "no puedo acceder a mi cuenta, me sale un mensaje que dice que la cuenta esta bloqueada por intentos fallidos, pero yo no intente nada, como hago para desbloquearla?", "label": "cuenta_acceso"}
+{"text": "Me gustaria reportar un bug en la función de búsqueda, cuando busco por nombre de cliente siempre me sale un error de 'sin resultados', ya verifique que los datos estén correctamente ingresados y sigue sin funcionar", "label": "problema_tecnico"}
+{"text": "Quiero solicitar un reembolso parcial de mi suscripción, no estoy usando todos los servicios", "label": "facturacion_pagos"}
+{"text": "Me pasa algo raro con la función de búsqueda, cuando busco un cliente por nombre, me muestra resultados que no tienen nada que ver con lo que estoy buscando, ya he intentado con diferentes palabras clave pero el problema sigue, espero que puedan ayudarme a solucionarlo", "label": "problema_tecnico"}
+{"text": "tengo una duda con el metodo de pago, puedo cambiar de tarjeta de credito a paypal?", "label": "facturacion_pagos"}
+{"text": "me gustaria saber si puedo pagar mi suscripcion con paypal, actualmente solo veo opciones de pago con tarjeta de credito y no quiero utilizarla", "label": "facturacion_pagos"}
+{"text": "Estoy teniendo un problema con mi factura del mes pasado, me cobraron $150 en lugar de $120, ¿pueden ayudarme a entender por qué hay una diferencia de $30?", "label": "facturacion_pagos"}
+{"text": "necesito una factura detallada para poder hacer el pago, no se como obtenerla", "label": "facturacion_pagos"}
+{"text": "El sistema de notificaciones no me funciona bien, a veces recibo notificaciones de eventos que ya ocurrieron, y otras veces no recibo notificaciones de eventos que estan por ocurrir, es muy desordenado", "label": "problema_tecnico"}
+{"text": "Necesito cancelar mi cuenta de la plataforma de comercio electronico, ya que no estoy obteniendo las ventas esperadas y considero que es muy caro, ¿como puedo hacer para cancelar la cuenta y obtener un reembolso por el tiempo que no utilice, tambien queria saber si puedo obtener una copia de seguridad de mis datos?", "label": "cancelacion_baja"}
+{"text": "no puedo agregar un nuevo usuario a mi cuenta, me dice que no tengo permisos suficientes pero soy el administrador de la cuenta", "label": "cuenta_acceso"}
+{"text": "me cobraron un monto mayor al que deberian y no entiendo por q, mi plan es el basico y siempre pago 50 pesos, ahora me salio un cargo de 100", "label": "facturacion_pagos"}
+{"text": "¿El soporte técnico está disponible 24/7 y en que idiomas se ofrece?", "label": "consulta_producto"}
+{"text": "estoy en el plan empresarial y quiero cancelar la suscripcion de algunos usuarios, pero no quiero perder sus datos, habria alguna forma de hacer esto?", "label": "cancelacion_baja"}
+{"text": "Desde hace un par de dias la herramienta de reportes esta generando informes con datos errados, no se si es por la actualizacion que hicieron la semana pasada pero antes funcionaba bien, alguien puede revisar esto?", "label": "problema_tecnico"}
+{"text": "Quiero cambiar mi metodo de pago a transferencia bancaria, ¿pueden proporcionarme las instrucciones para hacer esto y qué información necesito proporcionar?", "label": "facturacion_pagos"}
+{"text": "Quiero cancelar mi suscripcion al servicio de monitoreo de redes, ya que mi empresa cambio a otra herramienta y no la voy a utilizar mas, ¿como puedo hacer para cancelar la suscripcion y evitar cargos futuros, y tambien queria saber si puedo obtener un informe de todos los datos que se han recopilado hasta ahora?", "label": "cancelacion_baja"}
+{"text": "Quiero saber si puedo downgradear a un plan gratuito, no necesito tantas caracteristicas", "label": "cancelacion_baja"}
+{"text": "Desde que actualice a la ultima version del software, la herramienta de automatizacion de tareas esta haciendo cosas raras, a veces repite tareas o las omite, no entiendo que pasa", "label": "problema_tecnico"}
+{"text": "Hola, tengo un problema con mi cuenta, no puedo entrar, me pide la verificación en dos pasos pero no me llega el código, ya verifiqué mi correo y nada, también intenté con mi teléfono pero tampoco, no sé qué hacer", "label": "cuenta_acceso"}
+{"text": "No puedo encontrar la factura del mes pasado para hacer el pago", "label": "facturacion_pagos"}
+{"text": "La opcion de copiar y pegar no esta funcionando en el editor de texto en linea, tengo que escribir todo de nuevo cada vez, es muy tedioso, ya verifique que no sea problema de mi navegador o sistema operativo, alguien puede ayudarme?", "label": "problema_tecnico"}
+{"text": "necesito ayuda con la verificacion en dos pasos, no puedo desactivarla, es necesario que la desactive para poder entrar a la cuenta de mi trabajo", "label": "cuenta_acceso"}
+{"text": "me cobraron dos veces el mismo plan y no se porque, ya revise mi factura y todo y no entiendo que paso", "label": "facturacion_pagos"}
+{"text": "Quisiera saber si el producto permite la creacion de workflows personalizados, ya que nuestro equipo tiene un flujo de trabajo muy especifico y necesitamos una herramienta que se adapte a nuestras necesidades", "label": "consulta_producto"}
+{"text": "Hola, mi empresa cambio de enfoque y ya no necesitamos el software, queria saber como puedo dar de baja mi cuenta y asegurarme de que no se cobren mas facturas", "label": "cancelacion_baja"}
+{"text": "hola, necesito ayuda con el reembolso, no estoy seguro de como solicitarlo", "label": "facturacion_pagos"}
+{"text": "quisiera cancelar la suscripcion automatica de mi tarjeta de credito", "label": "cancelacion_baja"}
+{"text": "estoy teniendo un problema con la impresion de documentos, cuando intento imprimir un documento, se imprime con caracteres extraños y no se puede leer, ya intente con diferentes impresoras y papel pero es lo mismo", "label": "problema_tecnico"}
+{"text": "Tengo un problema con el dashboard, no me muestra los datos de la ultima semana, probe actualizar la pagina y volver a ingresar pero sigue sin mostrar nada, espero que me puedan ayudar", "label": "problema_tecnico"}
+{"text": "Necesito recuperar el acceso a mi cuenta, cambié de número de teléfono y ya no me llega el SMS de verificación.", "label": "cuenta_acceso"}
+{"text": "la herramienta de analisis de datos no me permite seleccionar las columnas que necesito, solo me muestra 5 opciones predefinidas, pero yo necesito agregar algunas personalizadas, ya leí la documentacion y no encontré ninguna solucion", "label": "problema_tecnico"}
+{"text": "Necesito pausar mi cuenta por un tiempo, es posible hacer eso sin perder mis datos?", "label": "cancelacion_baja"}
+{"text": "buenas, estoy evaluando el plan profesional y el plan empresarial, puedo saber que diferencia hay en la cantidad de usuarios que puedo tener en cada uno?", "label": "consulta_producto"}
+{"text": "Estoy teniendo problemas para pagar mi factura con tarjeta de crédito, me da un error 500", "label": "facturacion_pagos"}
+{"text": "Solicito habilitar la autenticación de dos factores en mi cuenta, no encuentro la opción en configuración.", "label": "cuenta_acceso"}
+{"text": "estoy teniendo problemas con la autenticación de 2 pasos, no me llega el codigo de verificacion al telefono, que hago?", "label": "cuenta_acceso"}
+{"text": "Me interesa comparar los planes de pago, alguien me puede explicar las ventajas del plan premium?", "label": "consulta_producto"}
+{"text": "necesito bajar mi plan a basic, el pro es demasiado caro", "label": "cancelacion_baja"}
+{"text": "necesito ayuda para configurar las alertas de seguridad, no se que campos debo llenar para que funcionen correctamente", "label": "consulta_producto"}
+{"text": "hola, quiero dar de baja mi cuenta de almacenamiento en la nube, no la estoy usando y no quiero seguir pagando. No encuentro la opción para cancelarla en la configuración, pueden ayudarme?", "label": "cancelacion_baja"}
+{"text": "tienen soporte para el idioma portugues? necesito para un cliente", "label": "consulta_producto"}
+{"text": "La función de búsqueda en la base de datos no está funcionando, siempre me muestra resultados irrelevantes y no puedo encontrar lo que busco, necesito ayuda urgente para resolver esto", "label": "problema_tecnico"}
+{"text": "El sistema de notificaciones no me esta funcionando, no recibo correos electronicos cuando alguien se registra en mi sitio, ya active y desactive la opcion varias veces pero sigue sin funcionar, es muy importante para mi que esto funcione bien", "label": "problema_tecnico"}
+{"text": "No puedo encontrar la opcion para imprimir mi factura, ¿pueden decirme donde esta la opcion para descargarla?", "label": "facturacion_pagos"}
+{"text": "El monto que me cobraron no coincide con lo que dice mi plan contratado, ¿pueden revisar?", "label": "facturacion_pagos"}
+{"text": "Necesito cancelar mi suscripcion al plan premium porque ya no necesito tantas funcionalidades", "label": "cancelacion_baja"}
+{"text": "no logro encontrar la opcion para cambiar el idioma de la interfaz, ¿hay que configurar algo en particular?", "label": "consulta_producto"}
+{"text": "Tengo dudas sobre como configurar la autenticacion de dos factores en la plataforma, podrian ayudarme?", "label": "consulta_producto"}
+{"text": "no puedo crear nuevos usuarios en la plataforma, me aparece un mensaje de error que dice que el usuario ya existe pero no es cierto, ya intente con diferentes nombres de usuario y nada", "label": "problema_tecnico"}
+{"text": "necesito desactivar mi cuenta temporalmente, hay alguna forma de hacerlo?", "label": "cancelacion_baja"}
+{"text": "no entiendo por qué mi factura de este mes tiene un cargo adicional de 'impuesto sobre servicios', ¿pueden explicarme qué es esto y por qué se aplica?", "label": "facturacion_pagos"}
+{"text": "Estoy tratando de acceder a mi cuenta desde un nuevo dispositivo y me sale un mensaje de error que dice que mi cuenta ha sido bloqueada por actividad sospechosa, no entiendo por qué, ya que solo he estado accediendo desde el mismo lugar y con el mismo dispositivo, ¿podrían decirme qué pasa y cómo puedo desbloquear mi cuenta?", "label": "cuenta_acceso"}
+{"text": "tengo un problema raro, cuando intento enviar un correo desde la plataforma, me sale un error que dice 'servidor no disponible' pero si puedo enviar mails desde mi cuenta de gmail normal", "label": "problema_tecnico"}
+{"text": "La herramienta de automatización de correos electrónicos no esta funcionando, los correos se quedan en cola pero no se envían, ya verifique el servidor de correo", "label": "problema_tecnico"}
+{"text": "Buenos dias, desde hace unas horas la aplicacion web no me permite ver los datos de los ultimos 30 dias, solo me muestra los ultimos 7 dias, ya intenté en diferentes navegadores y sigue igual, estoy utilizando chrome 103", "label": "problema_tecnico"}
+{"text": "me acabo de dar cuenta de que no tengo acceso a una parte de la plataforma que necesito para realizar mi trabajo, ¿alguien puede ayudarme a configurar los permisos de mi cuenta?", "label": "cuenta_acceso"}
+{"text": "La aplicacion se crashea cuando trato de importar un archivo csv grande, ya intente dividir el archivo en partes mas pequenas pero sigue pasando, ayuda por favor", "label": "problema_tecnico"}
+{"text": "quiero cancelar mi suscripcion y pedir un reembolso parcial, como hago?", "label": "facturacion_pagos"}
+{"text": "tengo una factura pendiente desde hace mas de un mes y no se porque no me llega el correo de Recordatorio, como puedo pagarla?", "label": "facturacion_pagos"}
+{"text": "Necesito cancelar mi suscripcion al plan empresa, es demasiado costoso para mi negocio", "label": "cancelacion_baja"}
+{"text": "Estoy intentando cancelar mi suscripción a la plataforma de creación de sitios web, pero no puedo encontrar la opción para hacerlo. ¿Pueden ayudarme a cancelar la suscripción y detener los cargos recurrentes?", "label": "cancelacion_baja"}
+{"text": "Necesito cancelar mi suscripcion lo antes posible no quiero seguir pagando por algo que no uso, ¿cual es el paso a seguir?", "label": "cancelacion_baja"}
+{"text": "Hola, estoy teniendo problemas con el login, me sale un error que dice que la cuenta esta deshabilitada, pero yo no la deshabilite, necesito ayuda para solucionar esto", "label": "cuenta_acceso"}
+{"text": "no se que pasa con mi cuenta, estoy seguro de que la contrasena es correcta pero me dice que no", "label": "cuenta_acceso"}
+{"text": "Me parece que hubo un error en el cobro de mi suscripcion, me cobraron dos veces en un mismo mes, ¿pueden revisar y hacer el reembolso correspondiente?", "label": "facturacion_pagos"}
+{"text": "estoy tratando de cambiar mi plan de pago mensual a anual pero el sistema no me deja avanzar, que pasa?", "label": "facturacion_pagos"}
+{"text": "Buen día, necesito ayuda con la función de autenticación de dos pasos, desde la última actualización no puedo recibir los códigos SMS, los logs de mi teléfono muestran que los mensajes están siendo bloqueados por la aplicación", "label": "problema_tecnico"}
+{"text": "Estoy muy molesto porque me cobraron dos veces por el mismo plan y no puedo encontrar la factura para verificar el error, alguien puede ayudarme?", "label": "facturacion_pagos"}
+{"text": "como hago para conectar mi cuenta de gmail con su plataforma?", "label": "consulta_producto"}
+{"text": "hola, estaba trabajando con la herramienta de diseño y de repente se me cerró la sesión, volví a iniciar y todos mis cambios se habían perdido", "label": "problema_tecnico"}
+{"text": "Tengo un problema, mi tarjeta de credito vencio y no pude pagar la factura, ya la actualice pero me gustaria cambiar a un plan mas barato para evitar problemas en el futuro", "label": "cancelacion_baja"}
+{"text": "quiero cancelar mi suscripcion y que me reembolsen el dinero que me cobraron este mes, no estoy satisfecho con el servicio", "label": "facturacion_pagos"}
+{"text": "La aplicacion web se me cierra sola cada vez que intento subir un archivo grande, pasa en chrome y en firefox, ya desactive todos los plugins y sigue pasando, no se que pueda ser", "label": "problema_tecnico"}
+{"text": "necesito ayuda con la api de pago, no entiendo como funciona la autenticacion, podrian mandarme un ejemplo?", "label": "consulta_producto"}
+{"text": "tengo una pregunta sobre los impuestos que me cobran en la factura, puedo obtener una factura sin iva?", "label": "facturacion_pagos"}
+{"text": "la herramienta de seguimiento de campanas de email no me muestra los resultados correctos, me dice que tengo un 0% de apertura pero yo se que los correos si se estan abriendo, ya intenté con diferentes cuentas de email y sigue igual, es importante que lo resuelvan porque necesito saber que tan efectivas estan siendo mis campanas", "label": "problema_tecnico"}
+{"text": "tengo un problema con mi cuenta, alguien entro y cambio mi contraseña, como hago para recuperarla?", "label": "cuenta_acceso"}
+{"text": "necesito una factura detallada de los ultimos 6 meses para poder hacer mi declaracion de impuestos, como la puedo obtener?", "label": "facturacion_pagos"}
+{"text": "Quisiera saber si hay límite de almacenamiento en el plan gratuito y qué pasa si lo supero.", "label": "consulta_producto"}
+{"text": "¿cómo puedo cancelar mi suscripción al servicio de seguridad en la nube, ya que hemos decidido cambiar a otro proveedor?", "label": "cancelacion_baja"}
+{"text": "Hola, estoy teniendo problemas con la carga de archivos en el modulo de gestión de documentos, a veces se suben bien y otras no, no entiendo que pasa", "label": "problema_tecnico"}
+{"text": "mi equipo no puede acceder al panel de control aunque les di los permisos necesarios", "label": "cuenta_acceso"}
+{"text": "he olvidado la contraseña de mi cuenta y no tengo acceso al correo electronico que use para registrarme, como puedo recuperarla?", "label": "cuenta_acceso"}
+{"text": "hola, tenia un problema con el modulo de pago, cuando intento realizar una transacción, me sale un mensaje que dice 'error de conexión con el servidor', ya verifique la conexión a internet y esta todo bien, no se que pueda ser", "label": "problema_tecnico"}
+{"text": "tengo duda con el plan empresarial, ¿incluye soporte prioritario?", "label": "consulta_producto"}
+{"text": "me gustaria saber si el plan empresarial incluye soporte tecnico prioritario, y si es asi, como funciona?", "label": "consulta_producto"}
+{"text": "Necesito una factura proforma para poder pagar con transferencia bancaria, como la consigo?", "label": "facturacion_pagos"}
+{"text": "Tengo que dar de baja la cuenta de mi empresa porque ya no la estamos utilizando, ¿cuales son los pasos que debo seguir para hacerlo correctamente?", "label": "cancelacion_baja"}
+{"text": "mi usuario no tiene permisos para nada, que hago?", "label": "cuenta_acceso"}
+{"text": "Tengo un problema con mi cuenta, resulta que me cobraron dos veces, y ahora quiero cancelar mi suscripcion y pedir un reembolso, como hago?", "label": "cancelacion_baja"}
+{"text": "estoy por contratar el servicio pero quiero saber si se puede personalizar la apariencia de los informes generados, por ejemplo agregar nuestro logo", "label": "consulta_producto"}
+{"text": "me gustaria saber si puedo hacer un reembolso parcial, porque solo use el servicio durante una semana del mes pasado", "label": "facturacion_pagos"}
+{"text": "No puedo resetear mi contraseña, cuando hago clic en el link que me llega al mail me manda a una página que dice que no existe, ya he intentado con diferentes navegadores y nada, ¿qué puedo hacer?", "label": "cuenta_acceso"}
+{"text": "necesito saber si puedo integrar su plataforma con google calendar urgente", "label": "consulta_producto"}
+{"text": "Tengo un problema con mi cuenta, no puedo acceder al panel de control, me pide la verificacion en dos pasos pero no tengo el codigo, ya intente con el mail de recuperacion pero no llego nada", "label": "cuenta_acceso"}
+{"text": "tengo una pregunta sobre la seguridad de la plataforma, ¿es posible que un usuario con permisos de administrador pueda cambiar la contraseña de otro usuario sin que este lo sepa?", "label": "cuenta_acceso"}
+{"text": "tengo 5 empleados que necesitan acceso al sistema, pero cada vez que intento agregar un nuevo usuario, me dice que he alcanzado el limite de usuarios disponibles en mi plan, como puedo aumentar este limite o agregar mas usuarios?", "label": "cuenta_acceso"}
+{"text": "La herramienta de chat en vivo no esta funcionando correctamente, a veces los mensajes no se envian y otras veces se envian dos veces", "label": "problema_tecnico"}
+{"text": "Necesito cambiar mi metodo de pago urgente porque mi tarjeta esta vencida", "label": "facturacion_pagos"}
+{"text": "necesito cambiar mi metodo de pago porque la tarjeta que tenia asociada ya no es valida", "label": "facturacion_pagos"}
+{"text": "tengo un problema con la autenticacion de usuario, me pide volver a loguearme cada 5 min", "label": "problema_tecnico"}
+{"text": "estoy teniendo problemas para visualizar los graficos en el dashboard, se ven borrosos y no puedo leer los datos, ya probe en diferentes dispositivos", "label": "problema_tecnico"}
+{"text": "Como puedo cancelar mi suscripcion al servicio de almacenamiento en la nube?", "label": "cancelacion_baja"}
+{"text": "necesito bajar de plan a uno mas economico, el problema es que uso varios productos de ustedes, como puedo hacer para no perder funcionalidades importantes, podrian hacer un downgrade personalizado?", "label": "cancelacion_baja"}
+{"text": "Tengo un problema con la herramienta de informes, parece que no se actualizan en tiempo real como deberian, a veces tardo horas en refrescar la pagina para ver los cambios, no se si es un problema de mi conexion o del sistema", "label": "problema_tecnico"}
+{"text": "estoy teniendo problemas con la herramienta de automatizacion de workflows, me da error de permisos cada vez que intento asignar una tarea a un miembro del equipo, ya verifique los permisos y todos estan correctos, la ultima actualizacion que hice fue hace 3 dias", "label": "problema_tecnico"}
+{"text": "Necesito cancelar mi suscripcion urgentemente debido a que estoy teniendo problemas con el pago y no quiero que me sigan cobrando", "label": "cancelacion_baja"}
+{"text": "queria saber si es posible cambiar el metodo de verificacion de dos pasos de la app a un metodo de verificacion por correo electronico, no me gusta la idea de tener que depender de una aplicacion adicional para poder acceder a mi cuenta", "label": "cuenta_acceso"}
+{"text": "La aplicacion se cae cada vez que intento subir un archivo csv con más de 1000 filas, uso firefox y tengo Actualizado el sistema operativo", "label": "problema_tecnico"}
+{"text": "me olvide mi contrasena y cuando trato de recuperarla me pide el codigo de verificacion pero no me llega el mensaje", "label": "cuenta_acceso"}
+{"text": "necesito cambiar mi metodo de pago porque la tarjeta que tenia asociada caduco y no se como hacerlo, la app no me da la opcion", "label": "facturacion_pagos"}
+{"text": "La aplicación se cierra sola cada vez que intento exportar un reporte en PDF. Pasa en iOS 17, ya reinicié el teléfono y sigue igual.", "label": "problema_tecnico"}
+{"text": "Buenas, no puedo encontrar la opcion para cancelar mi suscripcion, alguien me puede ayudar?", "label": "consulta_producto"}
+{"text": "Intenté actualizar mi tarjeta de crédito pero el sistema me da error 402 cada vez que guardo los datos. Ya probé con dos tarjetas distintas.", "label": "facturacion_pagos"}
+{"text": "quisiera cambiar mi plan de hecho a uno más básico, el que tengo ahora es demasiado caro y no uso la mayoría de las funciones", "label": "cancelacion_baja"}
+{"text": "me parece que hay un error en mi factura del mes pasado, me cobraron por 2 usuarios adicionales que nunca agregue", "label": "facturacion_pagos"}
+{"text": "quiero cambiar de plan, actualmente tengo el basico y quiero cambiar al profesional, pero no se si puedo conservar mis datos, alguien me puede ayudar?", "label": "cancelacion_baja"}
+{"text": "Hola, me gustaría saber cómo puedo cancelar mi cuenta de correo electrónico empresarial, ya que he decidido migrar a otra plataforma. ¿Pueden proporcionarme instrucciones detalladas para realizar esta cancelación?", "label": "cancelacion_baja"}
+{"text": "tengo problemas para importar mis datos desde un archivo excel, el formato no es compatible o algo asi, alguien podria ayudarme?", "label": "consulta_producto"}
+{"text": "tienen alguna guia o tutorial para configurar las notificaciones automaticas? soy nuevo usando esto", "label": "consulta_producto"}
+{"text": "Quiero pausar mi cuenta por un tiempo ya que estoy en una situacion economica complicada y no puedo seguir pagando, ¿es posible hacerlo?", "label": "cancelacion_baja"}
+{"text": "Hola, estoy teniendo un problema con el cobro de mi suscripción. La última factura se cobró dos veces, y yo solo autorizé un pago. Ya revisé mi cuenta bancaria y efectivamente se realizaron dos cargos. ¿Cómo puedo solicitar el reembolso del cargo extra?", "label": "facturacion_pagos"}
+{"text": "tengo problemas para importar datos de mi base de datos, podeis darme una mano?", "label": "consulta_producto"}
+{"text": "Estoy teniendo un problema con la herramienta de edición de texto en su plataforma, me sale un error de 'fuera de memoria' siempre que intento pegar un texto grande, ya actualice mi navegador y sigue pasando", "label": "problema_tecnico"}
+{"text": "tengo una duda con la funcion de importacion de datos, puedo importar desde un archivo csv?", "label": "consulta_producto"}
+{"text": "necesito hacer un cambio en mi plan de pago, quiero pasar a uno mas barato pero no se como hacerlo en la plataforma", "label": "facturacion_pagos"}
+{"text": "como hago para restablecer la clave de seguridad de la cuenta", "label": "consulta_producto"}
+{"text": "Necesito bajar de plan, el que tengo ahora es demasiado caro y no necesito todas las funciones, puedo cambiar a uno mas basico?", "label": "cancelacion_baja"}
+{"text": "Me parece que hay un bug en la función de calculo de totales, cuando realizo una venta y agrego varios productos, el total no se calcula correctamente, ya he intentado con diferentes combinaciones de productos pero el problema sigue", "label": "problema_tecnico"}
+{"text": "hace dos dias que no puedo subir archivos, se queda cargando para siempre y despues tira error de tiempo agotado", "label": "problema_tecnico"}
+{"text": "Buenas noches, desde hace unos dias la aplicacion se quedaba congelada cuando intento acceder a la seccion de configuracion, probe reiniciar el navegador pero sigue igual", "label": "problema_tecnico"}
+{"text": "El sistema de backups automaticos no me esta funcionando, no veo ningun registro de respaldo en el historial, ya configure todo correctamente y active la opcion, que puede estar pasando, es muy importante para mi tener respaldos de mis datos", "label": "problema_tecnico"}
+{"text": "Tengo un problema y no se como explicarlo, basicamente cuando intento crear un nuevo usuario en el sistema, me sale un mensaje de error que dice 'no se pudo crear el usuario' pero no me da mas detalles, ya intente con diferentes nombres de usuario y contrasenas pero nada", "label": "problema_tecnico"}
+{"text": "Estoy evaluando su plataforma para mi negocio y me gustaria saber si el plan business incluye soporte prioritario, ya que hemos tenido problemas con nuestro proveedor actual y no queremos perder tiempo en esperar respuestas", "label": "consulta_producto"}
+{"text": "tengo problemas con el pago y quiero pausar mi cuenta hasta que pueda solucionarlos, como puedo hacer?", "label": "cancelacion_baja"}
+{"text": "Tengo un problema con los permisos de usuario, agregue a un nuevo miembro al equipo pero no puede ver los informes que necesita, ya le di los permisos de administrador pero sigue sin funcionar, ¿qué pasa?", "label": "cuenta_acceso"}
+{"text": "Mi empresa necesita una factura con nuestros datos de empresa para poder hacer el pago, ¿como hago para personalizar la factura?", "label": "facturacion_pagos"}
+{"text": "Necesito dar de baja mi cuenta de pruebas, ya termine de probar el software y no quiero seguir pagando, como hago para cancelarla?", "label": "cancelacion_baja"}
+{"text": "Detecte un bug en la herramienta de calendario, cuando programo un evento recurrente, a veces se duplica el evento en el calendario y tengo que eliminarlo manualmente, es muy confuso", "label": "problema_tecnico"}
+{"text": "tengo un problema con mi factura del mes pasado, dice que debo mas de lo que creo", "label": "facturacion_pagos"}
+{"text": "Me gustaria saber si el software es compatible con mac y windows, no se si es importante pero mi equipo utiliza ambos", "label": "consulta_producto"}
+{"text": "no se como hacer para agregar nuevos usuarios al equipo, alguien me puede ayudar?", "label": "consulta_producto"}
+{"text": "me olvide mi contrasena y trate de recuperarla pero me dice que el correo electronico no existe, pero si existe porque me llegan los mensajes de la plataforma, que puedo hacer?", "label": "cuenta_acceso"}
+{"text": "hace unas horas que no puedo acceder a la plataforma, me sale un error 500 cada vez que intento ingresar, ya intenté en diferentes dispositivos y navegadores y sigue igual, es muy importante que lo resuelvan lo antes posible porque estoy perdiendo ventas", "label": "problema_tecnico"}
+{"text": "necesito saber si se puede pagar con paypal", "label": "consulta_producto"}
+{"text": "necesito ayuda con la integracion con google drive, no me funciona", "label": "consulta_producto"}
+{"text": "Me cobraron el doble de lo que debia este mes y no entiendo por q", "label": "facturacion_pagos"}
+{"text": "Buen día, quiero solicitar un reembolso parcial porque solo utilicé el servicio durante 2 semanas del mes pasado, no tengo idea de cómo cancelar la suscripción anticipadamente", "label": "facturacion_pagos"}
+{"text": "estoy teniendo problemas con el modulo de facturacion, cuando intento generar un nuevo recibo, me sale un error 500 y no puedo avanzar, ya intenté reiniciar el sistema y nada", "label": "problema_tecnico"}
+{"text": "tengo un problema con mi factura del mes pasado, me cobraron como si estuviera en el plan premium pero yo crei que estaba en el basico, podeis ayudarme a entender eso", "label": "facturacion_pagos"}
+{"text": "tengo un problema con el plan que estoy usando, resulta que me dijeron que iba a costar 50 pesos al mes y ahora me cobran 70, como puedo cambiar a un plan mas barato?", "label": "facturacion_pagos"}
+{"text": "por que no me permiten actualizar mi metodo de pago si ya estoy logueado en mi cuenta, es muy frustrante", "label": "facturacion_pagos"}
+{"text": "estoy teniendo problemas con el acceso a mi cuenta, me sale un error de autenticacion cada vez que intento ingresar, ya intente cerrar y volver a abrir el navegador pero nada, por favor necesito ayuda urgente", "label": "cuenta_acceso"}
+{"text": "necesito una guia para implementar la autenticacion de dos factores", "label": "consulta_producto"}
+{"text": "Tengo un problema con la herramienta de edicion de plantillas, no me permite guardar los cambios que hago, me sale un error que dice 'no se puede guardar, intente nuevamente', ya intente varias veces y nada, es muy frustrante", "label": "problema_tecnico"}
+{"text": "Necesito ayuda con mi contraseña, la cambie hace unos dias y ahora no me acuerdo que es, intente recuperarla pero no me llega el correo de restablecimiento, ¿pueden ayudarme a solucionar esto?", "label": "cuenta_acceso"}
+{"text": "me gustaria saber si hay un limite de cantidad de formularios que puedo crear en el plan gratuito y que pasa si lo supero", "label": "consulta_producto"}
+{"text": "Tengo un problema con la factura del mes pasado, me dicen que debo 200 pesos pero yo ya pague 150, alguien puede revisar esto?", "label": "facturacion_pagos"}
+{"text": "Hola, tengo una consulta, estoy utilizando el plan premium de la herramienta de gestion de proyectos y quiero bajar a un plan mas basico, ya que no estoy utilizando todas las funciones del plan actual, ¿hay alguna forma de cambiar de plan sin perder mis datos y configuraciones?", "label": "cancelacion_baja"}
+{"text": "Necesito ayuda con la configuración de los permisos de usuario, ya que quiero dar acceso a un nuevo miembro del equipo pero no sé cómo asignarle los permisos correctos, he intentado seguir las instrucciones en el sitio web pero no logro hacer que funcione, ¿podrían proporcionarme una guía paso a paso?", "label": "cuenta_acceso"}
+{"text": "Buenos días, estoy teniendo problemas para pagar mi factura. Mi empresa está pasando por un momento financiero difícil y necesitamos extender el plazo de pago de la factura. ¿Hay alguna posibilidad de hacer esto sin incurrir en cargos adicionales por demora? Ya hablé con mi contadora y ella me dijo que es común que las empresas ofrezcan este tipo de flexibilidad en casos especiales.", "label": "facturacion_pagos"}
+{"text": "la app anda muy lenta desde la ultima actualizacion, tarda como 10 segundos en cargar cada pantalla", "label": "problema_tecnico"}
+{"text": "Hola equipo, estamos considerando cambiar a su plataforma y me gustaria saber si hay alguna diferencia entre el plan estandar y el plan premium en cuanto a la cantidad de usuarios que se pueden agregar", "label": "consulta_producto"}
+{"text": "Tengo un problema con la autenticación, cuando trato de ingresar al sistema me dice que mi sesión ha caducado, pero acabo de iniciar sesión, ¿cómo puedo solucionar esto?", "label": "cuenta_acceso"}
+{"text": "¿cuales son las diferencias entre el plan standard y el avanzado?", "label": "consulta_producto"}
+{"text": "necesito ayuda con el chat en vivo, no me aparecen los mensajes de los usuarios, ya verifique la configuración y todo parece estar correcto", "label": "problema_tecnico"}
+{"text": "Buen día, la integración con nuestro CRM dejó de sincronizar desde ayer a las 14hs aprox. Los logs muestran timeout constante.", "label": "problema_tecnico"}
+{"text": "donde puedo ver los reportes de uso en mi cuenta", "label": "consulta_producto"}
+{"text": "me gustaria saber si hay algun limite en la cantidad de usuarios que se pueden agregar en el plan medio, no quiero gastar de mas", "label": "consulta_producto"}
+{"text": "Hola, necesito cancelar mi suscripcion al plan empresarial, ya que mi empresa downsizo y no necesitamos tantas licencias, puedo cambiar a un plan mas chico?", "label": "cancelacion_baja"}
+{"text": "Tengo un problema con mi contraseña, la cambié hace unos días y ahora no me deja entrar, me dice que es incorrecta, pero estoy seguro de que la estoy poniendo bien, ya intenté recuperarla pero me pide el teléfono y yo no tengo acceso a ese número más", "label": "cuenta_acceso"}
+{"text": "Necesito cancelar mi suscripción al servicio de almacenamiento en la nube ya que no estoy utilizando suficientes recursos como para justificar el costo mensual", "label": "cancelacion_baja"}
+{"text": "no se como usar la funcion de automatizacion de tareas, me podrian ayudar?", "label": "consulta_producto"}
+{"text": "Tengo un problema con la herramienta de informes, no se porque pero cuando trato de generar un informe detallado me sale un error de pagina no encontrada", "label": "problema_tecnico"}
+{"text": "alguien me dijo que la autenticacion de dos factores con authenticador es posible en su plataforma, pero no veo la opcion para configurarla, es cierto que se puede hacer?", "label": "cuenta_acceso"}
+{"text": "tengo un problema con la herramienta de chat en vivo, no se conecta con el servidor y no puedo atender a los clientes, ya reinicie el servidor y sigue sin funcionar", "label": "problema_tecnico"}
+{"text": "hola, necesito ayuda con la integracion con github, no se como hacer que se conecten las dos cuentas", "label": "consulta_producto"}
+{"text": "Tengo una duda, cómo puedo cambiar el correo electrónico asociado a mi cuenta?, ya intenté en la sección de configuración pero no encuentro la opción, y necesito hacerlo urgentemente", "label": "cuenta_acceso"}
+{"text": "no se porque pero mi cuenta esta bloqueada y no se como desbloquearla", "label": "cuenta_acceso"}
+{"text": "Se me venció la tarjeta y no encuentro dónde cambiar el método de pago en la app, alguien me puede guiar?", "label": "facturacion_pagos"}
+{"text": "Me cobraron mal el ultimo mes, mi factura dice que debo $500 pero yo tengo un plan que cuesta $300, necesito que alguien me explique que paso", "label": "facturacion_pagos"}
+{"text": "necesito cancelar mi cuenta ya que estoy migrando a otra plataforma de gestion de proyectos", "label": "cancelacion_baja"}
+{"text": "Hola, me gustaria pausar mi cuenta de la herramienta de diseño grafico por un tiempo, ya que no la estoy utilizando y no quiero seguir pagando, ¿hay alguna forma de pausar la cuenta sin perder mis diseños y configuraciones, y tambien queria saber si puedo obtener un descuento si vuelvo a activar la cuenta en el futuro?", "label": "cancelacion_baja"}
+{"text": "Necesito pausar mi cuenta por un tiempo porque estamos haciendo una auditoria y no queremos que se nos cobre mientras tanto, ¿es posible hacerlo?", "label": "cancelacion_baja"}
+{"text": "Necesito cancelar mi suscripción a la herramienta de análisis de datos, ya que he encontrado una alternativa que se adapta mejor a mis necesidades y presupuesto. Por favor, indíquenme los pasos a seguir para cancelar la suscripción y evitar cargos adicionales.", "label": "cancelacion_baja"}
+{"text": "quisiera cancelar mi cuenta premium y cambiar a la version gratuita", "label": "cancelacion_baja"}
+{"text": "El sistema de notificaciones no esta enviando correos electrónicos a los clientes cuando se realizan cambios en sus pedidos, esto me esta generando quejas y problemas con mi reputación, ayúdenme a solucionar esto", "label": "problema_tecnico"}
+{"text": "no entiendo como funciona la integracion con google drive, no me aparece la opcion", "label": "consulta_producto"}
+{"text": "mi jefe me dio permisos de admin pero no me deja hacer nada", "label": "cuenta_acceso"}
+{"text": "tengo un problema con la facturacion, me envian las facturas en ingles y necesito que sean en espanol", "label": "facturacion_pagos"}
+{"text": "Necesito un reembolso parcial porque solo use el servicio durante 10 dias y me cobraron por todo el mes, como hago?", "label": "facturacion_pagos"}
+{"text": "Quiero dejar de recibir notificaciones y actualizaciones del sistema, como me doy de baja?", "label": "cancelacion_baja"}
+{"text": "Tengo un descuento pendiente que no se aplicó en mi última factura, ¿pueden ayudarme con eso?", "label": "facturacion_pagos"}
+{"text": "Quiero saber como puedo exportar mis datos antes de dar de baja mi cuenta para no perder la informacion que he guardado", "label": "cancelacion_baja"}
+{"text": "Hola, estoy teniendo un problema con la verificación en dos pasos, me llega el código de verificación al mail pero cuando lo ingreso me dice que es incorrecto, ya he intentado 2 veces y no puedo avanzar, ¿podrían ayudarme a resolver este problema?", "label": "cuenta_acceso"}
+{"text": "estoy teniendo problemas con la verificacion en dos pasos, ya active la opcion de autenticacion y descargue la app correspondiente pero no puedo generar el codigo de 6 digitos necesario para poder acceder, ¿pueden decirme que debo hacer?", "label": "cuenta_acceso"}
+{"text": "Estoy teniendo problemas con el módulo de facturación, cuando intento generar una factura, me salen campos vacíos aunque ya los hayan llenado, he intentado reiniciar el sistema y volver a intentarlo, pero el problema sigue, estoy utilizando la ultima version del software", "label": "problema_tecnico"}
+{"text": "no puedo acceder a mi cuenta, creo que es problema de contraseña o algo asi", "label": "cuenta_acceso"}
+{"text": "intente resetear mi clave de acceso pero el link que me llego por mail caduco antes de que pudiera usarlo, como puedo solicitar un nuevo link o recuperar mi cuenta de alguna manera?", "label": "cuenta_acceso"}
+{"text": "quiere saber si la herramienta de reportes puede hacer graficos en tiempo real", "label": "consulta_producto"}
+{"text": "no puedo encontrar la forma de exportar mis datos a excel, alguien me puede ayudar?", "label": "consulta_producto"}
+{"text": "como hago para personalizar los reports que me manda el sistema?", "label": "consulta_producto"}
+{"text": "Tengo un problema con la autenticacion de dos factores, me envian el codigo al mail pero no puedo copiarlo y pegarlo en el campo de verificacion, alguien puede ayudarme?", "label": "cuenta_acceso"}
+{"text": "quisiera comparar los planes basic y premium, no entiendo bien las diferencias en cuanto a almacenamiento y usuarios", "label": "consulta_producto"}
+{"text": "necesito saber si se puede personalizar el dashboard", "label": "consulta_producto"}
+{"text": "La integracion con google drive no esta funcionando, cuando trato de subir un archivo me da un error 500, alguien puede decirme que pasa?", "label": "problema_tecnico"}
+{"text": "Estoy teniendo un problema con el reporte de ventas, no se están actualizando los datos desde hace 3 dias y necesito urgentemente solucionar esto para poder tomar decisiones informadas", "label": "problema_tecnico"}
+{"text": "Quisiera dar de baja mi cuenta porque ya no la utilizo", "label": "cancelacion_baja"}
+{"text": "quiero cancelar mi suscripcion a todo, no lo estoy utilizando", "label": "cancelacion_baja"}
+{"text": "tengo una pregunta sobre la compatibilidad de su plataforma con otros softwares, especicamente quiero saber si es compatible con Trello y Asana", "label": "consulta_producto"}
+{"text": "queria dar de baja mi cuenta de prueba gratuita que caduca en unos dias, antes de que se cobre el plan pago automaticamente, como hago?", "label": "cancelacion_baja"}
+{"text": "estoy teniendo un problema con la herramienta de informes, no se porque pero cuando quiero filtrar por fecha me da error y no puedo avanzar", "label": "problema_tecnico"}
+{"text": "Quiero saber porque no me han reembolsado todavia el dinero de la cancelacion de mi cuenta, ya han pasado 3 semanas", "label": "facturacion_pagos"}
+{"text": "Hola, estoy teniendo un problema con mi cuenta, me sale un mensaje que dice que mi cuenta ha sido deshabilitada, no sé por qué, no he hecho nada raro, alguien me puede ayudar a solucionar esto?", "label": "cuenta_acceso"}
+{"text": "No puedo iniciar sesión, dice que mi contraseña es incorrecta pero estoy seguro de que la escribo bien. Ya intenté 5 veces.", "label": "cuenta_acceso"}
+{"text": "Necesito ayuda con la configuración de la autenticación de dos factores, ya que quiero activarla para todos los usuarios de mi empresa pero no sé cómo hacerlo, he intentado seguir las instrucciones en el sitio web pero no logro encontrar la opción para hacerlo, ¿podrían proporcionarme una guía detallada sobre cómo configurar la autenticación de dos factores para todos los usuarios?", "label": "cuenta_acceso"}
+{"text": "La herramienta de análisis de datos no esta procesando los datos correctamente, siempre me muestra errores y no puedo generar informes precisos, necesito una solución inmediata para poder tomar decisiones informadas", "label": "problema_tecnico"}
+{"text": "tengo dudas con la funcionalidad de reportes, puedo personalizarlos para que me muestren solo los datos que necesito?", "label": "consulta_producto"}
+{"text": "no anda nada la pagina esta caida hace 1 hora ya reintente varias veces", "label": "problema_tecnico"}
+{"text": "quisiera hacer un downgrade de plan, del plan avanzado al basico, pero quiero saber si se pueden mantener las mismas funcionalidades de facturacion electrónica, gracias por la ayuda", "label": "cancelacion_baja"}
+{"text": "que pasa si quiero cancelar mi cuenta, se me devuelve el dinero?", "label": "consulta_producto"}
+{"text": "estoy teniendo un problema con el modulo de chat, cuando intento enviar un mensaje, me sale un error de conexion, ya intenté reiniciar el navegador y nada", "label": "problema_tecnico"}
+{"text": "Necesito ayuda con la configuración de seguridad de mi cuenta, quiero agregar un número de teléfono alternativo para la verificación en dos pasos pero no encuentro dónde hacerlo en la configuración de mi cuenta, ¿alguien puede explicarme los pasos para hacerlo?", "label": "cuenta_acceso"}
+{"text": "Hola, tengo un problema con mi cuenta y ya no la quiero usar, como hago para eliminarla o darla de baja definitivamente?", "label": "cancelacion_baja"}
+{"text": "Quisiera cambiar mi método de pago de tarjeta de crédito a PayPal. ¿Es posible hacer este cambio directamente desde mi cuenta o necesito contactar a soporte para realizar el cambio? Además, quería preguntar si hay algún cargo adicional por usar PayPal en lugar de la tarjeta de crédito.", "label": "facturacion_pagos"}
+{"text": "Necesito cancelar mi suscripcion urgente porque estamos mudando la empresa y no podremos seguir utilizando el servicio, ¿cuanto tiempo tarda el proceso de cancelacion?", "label": "cancelacion_baja"}
+{"text": "Buen dia, estoy teniendo problemas con la herramienta de automatizacion de tareas, a veces las tareas se ejecutan correctamente y otras veces no se ejecutan y no se porque", "label": "problema_tecnico"}
+{"text": "Hola, quiero dar de baja mi cuenta pero no se como hacerlo, alguien me puede ayudar?", "label": "cancelacion_baja"}
+{"text": "Detecté un bug: cuando edito un registro y le doy guardar dos veces seguidas, se duplica el registro completo.", "label": "problema_tecnico"}
+{"text": "No puedo iniciar sesión en el sistema, me dice que mi cuenta ha sido desactivada, pero no sé por qué, ¿podrían ayudarme a reactivar mi cuenta?", "label": "cuenta_acceso"}
+{"text": "Buen dia, me gustaria dar de baja mi suscripcion al programa de marketing por correo electronico, ya que no estoy obteniendo los resultados esperados y considero que es muy caro, ¿como puedo hacer para cancelar la suscripcion y obtener un reembolso por el tiempo que no utilice?", "label": "cancelacion_baja"}
+{"text": "Buenos días, necesito ayuda con el pago de mi factura. Resulta que mi empresa cambió de tarjeta de crédito y no puedo actualizar la información de pago en mi cuenta. Ya intenté hacerlo desde el panel de control, pero me aparece un error. ¿Alguien podría guiarme sobre cómo actualizar esta información o hacer el pago de otra manera?", "label": "facturacion_pagos"}
+{"text": "estoy intentando dar de baja mi cuenta de correo electrónico empresarial pero no encuentro la opción en el panel de control, ¿alguien puede ayudarme?", "label": "cancelacion_baja"}
+{"text": "Me interesa saber si el producto tiene alguna herramienta de reporting para poder monitorear el progreso de mis proyectos, estamos buscando algo que nos permita hacer un seguimiento detallado", "label": "consulta_producto"}
+{"text": "me cobraron mal el mes pasado, supuestamente por un 'cargo por servicios adicionales' que nunca solicite", "label": "facturacion_pagos"}
+{"text": "he cambiado de correo electrónico y ahora no puedo acceder a mi cuenta, cómo puedo actualizar mi dirección de correo electrónico en el sistema", "label": "cuenta_acceso"}
+{"text": "tengo un problema grave, la integracion con el banco no esta funcionando y no puedo realizar pagos, ya intente desinstalar y volver a instalar el conector pero sigue sin funcionar", "label": "problema_tecnico"}
+{"text": "No entiendo como funciona el tema de las cuentas y planes, alguien me puede explicar como cancelar mi suscripcion actual?", "label": "cancelacion_baja"}
+{"text": "se me cae la aplicacion cuando intento subir archivos pesados a la plataforma", "label": "problema_tecnico"}
+{"text": "me gustaria poder activar la verificacion en dos pasos para mi cuenta, pero no encuentro la opcion en la configuracion de seguridad, alguien podria ayudarme?", "label": "cuenta_acceso"}
+{"text": "Estoy teniendo problemas con el modulo de reportes, cuando intento generar un reporte, me salen datos inconsistentes, he intentado reiniciar el sistema y volver a intentarlo, pero el problema sigue, estoy utilizando la ultima version del software, y he notado que el problema solo ocurre cuando selecciono la opcion de 'Todos los datos'", "label": "problema_tecnico"}
+{"text": "quale es la diferencia entre el plan basico y el pro?", "label": "consulta_producto"}
+{"text": "hola, quiero cancelar mi cuenta ya que encontré una alternativa mejor", "label": "cancelacion_baja"}
+{"text": "mi compañero de equipo no puede entrar al panel de administrador aunque yo ya le di los permisos correspondientes", "label": "cuenta_acceso"}
+{"text": "Buenas, ¿es posible pasar de facturación mensual a anual? quiero ver si me sale más barato", "label": "facturacion_pagos"}
+{"text": "Quiero cancelar mi cuenta de inmediato, ya envie un mail pero no recibi respuesta, por favor pueden hacer algo al respecto", "label": "cancelacion_baja"}
+{"text": "me pagan de vuelta el dinero de la ultima factura, no lo quiero pq ya me cobraron y no pude usar el servicio", "label": "facturacion_pagos"}
+{"text": "Quiero cancelar mi suscripcion al plan empresarial porque ya no necesitamos el soporte de varios usuarios", "label": "cancelacion_baja"}
+{"text": "me estoy volviendo loco porque no puedo ingresar a la plataforma hace 3 horas, ya me llegaron 5 llamados de clientes preguntando por sus pedidos y no puedo atenderlos", "label": "problema_tecnico"}
+{"text": "Hola, estoy teniendo problemas para acceder a mi cuenta, ya que ayer cambié mi correo electrónico y ahora no puedo iniciar sesión, he intentado con la opción de 'olvidé mi contraseña' pero no me llega el correo de recuperación, ¿podrían ayudarme a solucionar este problema?", "label": "cuenta_acceso"}
+{"text": "Me gustaria saber si puedo obtener un reembolso parcial por los servicios que no utilicé en el mes pasado, ¿es posible hacer esto y cómo debo proceder?", "label": "facturacion_pagos"}
+{"text": "Estoy tratando de iniciar sesión en mi cuenta pero me sale un mensaje de error que dice que mi cuenta está desactivada, no entiendo por qué, ya que no he recibido ningún correo electrónico sobre este tema, ¿podrían decirme qué pasa y cómo puedo reactivar mi cuenta?", "label": "cuenta_acceso"}
+{"text": "Estoy teniendo un problema con la integracion de paypal en mi tienda online, desde hace 2 dias no puedo procesar pagos y me sale un error 404, ya intente hacerlo desde diferentes navegadores pero no funciona, uso la version premium de su software", "label": "problema_tecnico"}
+{"text": "tengo un problema con la seguridad de la plataforma, los usuarios pueden acceder a información que no deberian por un fallo en la validación de permisos", "label": "problema_tecnico"}
+{"text": "necesito saber si se puede utilizar vuestra herramienta para gestionar bases de datos de mysql, es compatible?", "label": "consulta_producto"}
+{"text": "Acabo de recibir un correo que dice que mi pago fue rechazado pero yo se que tengo fondos suficientes en mi cuenta, por favor revisen", "label": "facturacion_pagos"}
+{"text": "me gustaria saber porque mi factura delultimo mes es mas cara de lo normal, no recuerdo haber hecho nada que justifique ese aumento", "label": "facturacion_pagos"}
+{"text": "necesito agregar un nuevo usuario a mi cuenta, pero cuando intento hacerlo, me sale un error que dice que el correo electronico ya esta en uso, pero yo nunca agregue a nadie con ese correo, como puedo solucionar esto?", "label": "cuenta_acceso"}
+{"text": "Me gustaria saber como puedo restablecer mi contraseña de administrador, la olvidé y no tengo acceso a la cuenta de correo que utilice para registrarme, ¿hay alguna forma de recuperar el acceso?", "label": "cuenta_acceso"}
+{"text": "tengo un problema con la vista previa de los documentos, no se están visualizando correctamente, siempre aparecen borrosos y distorsionados, ya actualice mi navegador y sigue igual", "label": "problema_tecnico"}
+{"text": "estoy evaluando la posibilidad de migrar mis datos desde otro software similar, quisiera saber si ustedes ofrecen alguna herramienta o soporte para hacer este proceso mas facil", "label": "consulta_producto"}
+{"text": "se puede pagar con paypal?", "label": "consulta_producto"}
+{"text": "Tengo un problema con el formato de los informes generados, puedo cambiarlo a CSV o solo es PDF?", "label": "consulta_producto"}
+{"text": "Quiero bajar de plan ya que mi empresa esta pasando por un momento economico dificil y no podemos seguir pagando, ¿hay alguna forma de hacerlo rapidamente?", "label": "cancelacion_baja"}
+{"text": "Buenas tardes, me cobraron dos veces la suscripción este mes. Ya revisé mi estado de cuenta y aparecen dos cargos de $29.99 el mismo día. Necesito que me reembolsen uno.", "label": "facturacion_pagos"}
+{"text": "Tengo un problema con la verificación en dos pasos, ya que mi teléfono no está recibiendo los códigos de verificación, he intentado cambiar mi número de teléfono en la configuración de la cuenta pero no puedo guardar los cambios, ¿podrían ayudarme a solucionar este problema?", "label": "cuenta_acceso"}
+{"text": "no puedo pagar con mi tarjeta de credito, me dice q es invalida pero se q esta bien", "label": "facturacion_pagos"}
+{"text": "la herramienta de reportes no me deja exportar a excel desde hace 2 dias", "label": "problema_tecnico"}
+{"text": "La herramienta de chat en vivo no funciona bien en mi sitio web, a veces los clientes no pueden enviar mensajes y otros veces yo no puedo responder, es muy frustrante", "label": "problema_tecnico"}
+{"text": "estoy teniendo un problema con la integracion con nuestro sistema de gestión de inventario, cuando intento sincronizar los datos, me sale un error de autenticacion, ya intenté verificar las credenciales y nada", "label": "problema_tecnico"}
+{"text": "Quiero bajar de plan, el que tengo ahora es demasiado caro y no uso todas las funcionalidades. Me gustaría pasar al plan básico, ¿cuál es el procedimiento para hacer este cambio?", "label": "cancelacion_baja"}
+{"text": "Tengo una pregunta sobre el plan que estoy utilizando, actualmente estoy en el plan 'basico' pero quiero cambiar al plan 'premium', ¿cómo puedo hacer esto y qué cambio habrá en el precio?", "label": "facturacion_pagos"}
+{"text": "me gustaria saber como puedo cambiar los permisos de un usuario en mi cuenta, ya que necesito dar acceso a un nuevo empleado, pero no encuentro la opcion para hacerlo, es importante que lo resuelvan pronto", "label": "cuenta_acceso"}
+{"text": "estoy teniendo problemas con los permisos de usuario, asigne permisos de administrador a uno de mis empleados pero no puede acceder a ciertas secciones del panel de control, como puedo solucionar esto?", "label": "cuenta_acceso"}
+{"text": "Hola equipo de soporte, tengo un problema con la herramienta de informes, cuando trato de filtrar los datos por fecha, me sale un error que dice 'no se pueden cargar los datos', ya he intentado actualizar el navegador y limpiar la cache, pero el problema persiste, estoy utilizando la version 3.2 del software y el navegador es Firefox", "label": "problema_tecnico"}
+{"text": "Me gustaria saber si el plan empresarial incluye soporte prioritario y cuánto tiempo demoran en responder a los tickets", "label": "consulta_producto"}
+{"text": "Tengo un problema con el acceso a la cuenta de mi empresa, resulta que uno de mis empleados no puede acceder al panel de control y ya le di los permisos necesarios, he revisado la configuración de permisos y todo parece estar correcto, ¿podría ser un problema con la verificación en dos pasos?", "label": "cuenta_acceso"}
+{"text": "me gustaria saver si el plan basico incluye soporte tecnico", "label": "consulta_producto"}
+{"text": "me gustaria saber porque mi plan de pago aumento de $19.99 a $29.99 sin previo aviso", "label": "facturacion_pagos"}
+{"text": "que diferencia hay entre el plan pro y el plan business? no me queda claro en la pagina", "label": "consulta_producto"}
+{"text": "necesito bajar de plan porque el que tengo es demasiado caro para mi negocio", "label": "cancelacion_baja"}
+{"text": "Me gustaria saber si puedo pagar con paypal en lugar de tarjeta de credito, no veo la opcion en mi panel de control", "label": "facturacion_pagos"}
+{"text": "Me olvidé mi contraseña y no puedo recuperarla, ya intenté con la opción de olvidé mi contraseña pero no me llega el correo electrónico de restablecimiento", "label": "cuenta_acceso"}
+{"text": "Estoy intentando comparar los planes y no entiendo muy bien la diferencia entre el almacenamiento ilimitado y el almacenamiento de 10gb, podrian explicarmelo de forma mas detallada?", "label": "consulta_producto"}
+{"text": "diferencia entre plan basico y avanzado no entiendo", "label": "consulta_producto"}
+{"text": "no entiendo como funciona el sistema de puntos y recompensas, alguien me puede explicar?", "label": "consulta_producto"}
+{"text": "queria cambiar mi metodo de pago porque la tarjeta que tenia asociada ya no la tengo, pero no se como hacerlo, ayúdenme", "label": "facturacion_pagos"}
+{"text": "tengo un problema con mi cuenta, alguien cambio mi contraseña y no puedo acceder, ya intente con la opcion de recordar contraseña pero no me llega el correo, como puedo recuperar mi acceso?", "label": "cuenta_acceso"}
+{"text": "no puedo pagar con paypal, me dice que el metodo de pago no es valido, como puedo pagar mi suscripcion?", "label": "facturacion_pagos"}
+{"text": "Tengo un problema con la herramienta de notificaciones, siempre que alguien comenta en un proyecto me llega una notificación por correo electrónico pero no por la plataforma, ya verifique que las notificaciones estén activadas y sigue igual", "label": "problema_tecnico"}
+{"text": "estoy teniendo problemas con el pago automatico, me dice que la transaccion fue rechazada pero yo se que tengo fondos suficientes", "label": "facturacion_pagos"}
+{"text": "Tengo un problema con la integración con mi cuenta de Google Drive, los archivos que subo desde su plataforma no se están actualizando en mi cuenta, ya verifique que la conexión esté correcta y sigue sin funcionar", "label": "problema_tecnico"}
+{"text": "Tengo un problema con mi método de pago, ya intenté cambiar la tarjeta de crédito pero no me deja guardar los cambios. alguien puede ayudarme?", "label": "facturacion_pagos"}
+{"text": "Estoy teniendo un problema grave con la herramienta de informes, no me permite generar reportes desde hace un par de horas, necesito ayuda urgente", "label": "problema_tecnico"}
+{"text": "Quiero activar la verificación en dos pasos en mi cuenta, pero no sé cómo, busqué en las configuraciones y no encontré la opción, alguien me puede decir cómo hacerlo?", "label": "cuenta_acceso"}
+{"text": "Mi jefe me pidió que agregue a un nuevo usuario al sistema, pero cuando trato de hacerlo me sale un error que dice que no tengo permisos suficientes, ¿que debo hacer para solucionar esto?", "label": "cuenta_acceso"}
+{"text": "Acabo de darme cuenta q me han estado cobrando en dolares y no en pesos como debia ser", "label": "facturacion_pagos"}
+{"text": "como puedo migrar mis datos desde la version free a la paga?", "label": "consulta_producto"}
+{"text": "me esta dando un error al intentar importar una lista de contactos desde un archivo csv, me sale un mensaje que dice 'formato de archivo no soportado', ya intenté con diferentes formatos y sigue igual, estoy utilizando la version 2.5.1 de la plataforma", "label": "problema_tecnico"}
+{"text": "tengo un problema con el reembolso de mi suscripcion, me dijeron que me lo harian en 5 dias habiles y ya pasaron 10", "label": "facturacion_pagos"}
+{"text": "Quiero dejar de usar el servicio porque no me sirve para lo que necesito, como me doy de baja?", "label": "cancelacion_baja"}
+{"text": "estoy intentando configurar las alertas de seguridad pero no puedo, ayudenme", "label": "consulta_producto"}
+{"text": "Necesito ayuda para recuperar el acceso a mi cuenta, alguien más ha cambiado mi contraseña y no sé cómo recuperarla, he intentado usar la opción de recuperación de contraseña pero no me llega el correo electrónico de reseteo", "label": "cuenta_acceso"}
+{"text": "necesito ayuda con la herramienta de creacion de informes, no se como agregar nuevos campos a la tabla de datos", "label": "consulta_producto"}
+{"text": "quisiera saber si es posible personalizar los reports que se generan automaticamente, necesito agregar algunos campos adicionales para poder hacer un analisis mas profundo", "label": "consulta_producto"}
+{"text": "Hola, necesito ayuda con mi cuenta porque no puedo acceder, creo que es porque cambié de correo electrónico y no se cómo actualizar la información en mi perfil, he intentado hacerlo desde la configuración pero no encuentro la opción", "label": "cuenta_acceso"}
+{"text": "¿cuan tiempo demora en procesar los pagos automaticos?", "label": "consulta_producto"}
+{"text": "Buen dia, estoy intentando acceder a la seccion de configuracion de la plataforma y me sale un mensaje de error que dice que no tengo permisos, pero yo soy el administrador", "label": "problema_tecnico"}
+{"text": "en el plan basico puedo usar las herramientas de analisis de datos?", "label": "consulta_producto"}
+{"text": "como hago para que mi equipo pueda colaborar en tiempo real en un proyecto, es posible con vuestra herramienta?", "label": "consulta_producto"}
+{"text": "cancelen mi cuenta ya, no quiero seguir pagando por algo que no uso", "label": "cancelacion_baja"}
+{"text": "No puedo entrar a mi cuenta, puse la contrasena bien pero me dice que es incorrecta, ya intente como 10 veces", "label": "cuenta_acceso"}
+{"text": "no se que este pasando pero mi cuenta de administrador parece que no tiene los permisos que deberia tener, por ejemplo no puedo ver los reportes de ventas aunque si puedo acceder a la seccion de usuarios, es muy raro", "label": "cuenta_acceso"}
+{"text": "como hago para conectar mi cuenta de google con el programa", "label": "consulta_producto"}
+{"text": "estoy intentando acceder a mi cuenta pero me sale un mensaje de que la cuenta esta deshabilitada, no entiendo porque, ya que no recibi ningun aviso, por favor pueden resolver esto lo antes posible?", "label": "cuenta_acceso"}
+{"text": "tengo un problema con mi cuenta, me cobraron 2 veces en un mismo mes y ya cancels la segunda factura pero me dicen que debo pagarla de todas maneras", "label": "facturacion_pagos"}
+{"text": "Quisiera saber si es posible reembolsar el pago de mi suscripción del último mes. Resulta que decidimos cambiar a otro proveedor y ya no necesitamos el servicio. Revisé mi contrato y encontré la sección sobre reembolsos, pero quería confirmar con ustedes si es posible y cuál es el procedimiento para solicitarlo.", "label": "facturacion_pagos"}
+{"text": "tengo una cuenta premium y ya no la necesito, como hago para cambiar a un plan mas bajo?", "label": "cancelacion_baja"}
+{"text": "queria saber si puedo pagar anualmente en lugar de mensualmente, es mas conveniente para mi", "label": "facturacion_pagos"}
+{"text": "nuestra empresa ya no necesita el software de gestión de proyectos, ¿cómo puedo cancelar la suscripción y asegurarme de que no se cobren más cargos?", "label": "cancelacion_baja"}
+{"text": "Estoy teniendo problemas con la herramienta de chat en tiempo real, a veces se cuelga y no puedo responder a los clientes, ya lo intente reiniciar pero no se soluciona, ayuda por favor", "label": "problema_tecnico"}
+{"text": "Hola, necesito ayuda con una factura. La última que me emitieron tiene un error en el monto, es superior al que debería ser según mi plan de suscripción. Ya revisé mi contrato y comparé con las facturas anteriores, y efectivamente hay un error. ¿Cuál es el procedimiento para corregir esta factura y asegurarme de que el próximo cargo sea el correcto?", "label": "facturacion_pagos"}
+{"text": "cual es la ventaja de pagar anualmente en lugar de mensualmente?", "label": "consulta_producto"}
+{"text": "estoy teniendo un problema con la carga de datos en el dashboard, no se porque pero todos los dias a las 10 am se cae y tengo que recargar la pagina para que vuelva a funcionar, ayer me pasaba cada 2 horas", "label": "problema_tecnico"}
+{"text": "Necesito cancelar mi suscripcion de inmediato porque me cobraron un monto erroneo y no quiero seguir siendo cobrado, ¿pueden ayudarme a solucionar este problema lo antes posible?", "label": "cancelacion_baja"}
+{"text": "Quiero cambiar a un plan mas barato, el actual es muy caro", "label": "cancelacion_baja"}
+{"text": "estoy intentando acceder a mi cuenta desde un nuevo dispositivo y me pide que verifique mi identidad a traves de un correo electronico, pero cuando hago clic en el enlace de verificacion me sale un error que dice que el enlace ha caducado, ¿que debo hacer?", "label": "cuenta_acceso"}
+{"text": "Necesito un reembolso parcial del ultimo mes porque no pude usar el servicio como esperaba, la herramienta de reportes no funciona bien y no me dijeron nada al respecto", "label": "facturacion_pagos"}
+{"text": "quiero cancelar mi suscripcion, me gustaria saber si puedo recuperar mis datos despues de hacerlo", "label": "cancelacion_baja"}
+{"text": "tengo un problema con el modulo de facturacion, cuando intento generar una factura me sale un error que dice 'conexion con el servidor perdida', ya reinicie el servidor y sigue pasando, es urgente que lo resuelvan porque tengo que enviar las facturas a mis clientes", "label": "problema_tecnico"}
+{"text": "Quiero cancelar mi suscripcion pero no se donde hacerlo, ya busque en todos lados y no encuentro la opcion, alguien me puede guiar?", "label": "facturacion_pagos"}
+{"text": "Necesito dar de baja mi cuenta y cambiar a un plan mas básico ya que solo necesito utilizar una parte del software y no quiero seguir pagando por funcionalidades que no utilizo", "label": "cancelacion_baja"}
+{"text": "cual es el maximo de usuarios que se puede tener en el plan pro?", "label": "consulta_producto"}
+{"text": "no entiendo por que me aparecen dos cobros en mi factura, uno para el plan y otro para algo que dice 'soporte adicionales', nunca pedi soporte", "label": "facturacion_pagos"}
+{"text": "La herramienta de seguimiento de tiempo no funciona correctamente, siempre que intento agregar un nuevo proyecto me sale un error de 'base de datos no disponible', ya espere un día y sigue igual", "label": "problema_tecnico"}
+{"text": "me gustaría bajar de plan y cambiar a uno más económico, el que tengo ahora es demasiado costoso para nuestra empresa", "label": "cancelacion_baja"}
+{"text": "el reporte de ventas no me muestra los datos completos, solo aparecen los totales generales, pero no puedo ver los detalles por producto, ya intenté cambiar las fechas y nada", "label": "problema_tecnico"}
+{"text": "El modulo de gestión de stock no esta actualizando los niveles de inventario, ya reinicie el sistema y sigue sin funcionar, esto me esta causando problemas con mis pedidos", "label": "problema_tecnico"}
+{"text": "me esta pasando algo extrano con la autenticacion del sistema, a veces me logueo y me sale que la sesion ha expirado, aunque acabo de loguearme, ya intente reiniciar el sistema y nada", "label": "problema_tecnico"}
+{"text": "Necesito ayuda con la autenticación de dos factores, la tenía activada pero ahora no me está llegando el código de verificación, ya verifiqué que mi teléfono esté bien configurado, pero nada, no sé qué hacer", "label": "cuenta_acceso"}
+{"text": "Me interesa saber si hay una API disponible para desarrolladores para integrar con nuestra propia aplicación", "label": "consulta_producto"}
+{"text": "queria preguntar si es posible pagar la factura con un medio de pago distinto al utilizado habitualmente, ya que tengo un problema con la tarjeta actual", "label": "facturacion_pagos"}
+{"text": "tengo una duda antes de cancelar mi cuenta, se pueden exportar los datos de los reportes y estadisticas que genero con su plataforma, o se pierden para siempre?", "label": "cancelacion_baja"}
+{"text": "como pauso mi cuenta por unos meses? no la voy a usar por un tiempo y no quiero seguir pagando", "label": "cancelacion_baja"}
+{"text": "no entiendo como funciona la autenticacion de dos pasos en mi cuenta", "label": "consulta_producto"}
+{"text": "hola, estoy intentando configurar la autenticacion de dos factores pero no se como hacer para que funcione con las cuentas de email de mi empresa, alguien podria pasarme una guia paso a paso?", "label": "consulta_producto"}
+{"text": "quiero cancelar mi suscripcion ya que no estoy satisfecho con el servicio", "label": "cancelacion_baja"}
+{"text": "necesito recuperar mi cuenta ya que la contraseña que tenia anteriormente ya no la recuerdo y cuando intento hacer el proceso de recuperacion no me llega el correo electronico de verificacion, ¿alguien puede ayudarme?", "label": "cuenta_acceso"}
+{"text": "Tengo una cuenta Free y quiero pausarla temporalmente, como hago?", "label": "cancelacion_baja"}
+{"text": "Tengo un problema con la integracion con mi banco, los pagos no se estan registrando correctamente en el sistema", "label": "problema_tecnico"}
+{"text": "Hola, quiero cambiar mi plan a uno mas economico, pero no se como hacerlo, puedo perder datos importantes si lo hago?", "label": "cancelacion_baja"}
+{"text": "la interfaz de usuario se ve muy distorsionada en mi pantalla, como si no estuviera optimizada para mi resolucion", "label": "problema_tecnico"}
+{"text": "me pasa algo super raro, cuando filtro los datos en la tabla me aparecen filas vacias y no entiendo porque, estoy usando la version mas reciente del navegador", "label": "problema_tecnico"}
+{"text": "tengo problemas con el pago y quiero pausar mi cuenta hasta que pueda solventarlos", "label": "cancelacion_baja"}
+{"text": "Me gustaría pausar mi cuenta de marketing automatizado por un par de meses, ya que estoy reestructurando mi estrategia de ventas y no quiero seguir pagando por un servicio que no estoy utilizando. ¿Es posible hacer esto sin cancelar la cuenta definitivamente?", "label": "cancelacion_baja"}
+{"text": "no puedo encontrar la forma de conectar mi cuenta de google drive con el sistema, alguien podria ayudarme?", "label": "consulta_producto"}
+{"text": "cual es el maximo de usuarios que puedo agregar en el plan empresarial", "label": "consulta_producto"}
+{"text": "tengo dudas sobre la diferencia entre el plan basico y el plan premium, alguien podria hacerme un resumen de las funciones principales de cada uno?", "label": "consulta_producto"}
+{"text": "Quiero comparar los planes premium y empresarial, ¿cuales son las principales diferencias entre ellos?", "label": "consulta_producto"}
+{"text": "se me borro todo el trabajo de hoy no guardo nada la app se cerro sola estoy re enojado", "label": "problema_tecnico"}
+{"text": "mi cuenta está bloqueada después de varios intentos fallidos de login, cómo puedo desbloquearla sin esperar 24 horas", "label": "cuenta_acceso"}
+{"text": "necesito ayuda con la cuenta de mi empleado que no puede entrar al sistema a pesar de que le di acceso con el rol de administrador, ya verifique los permisos y todo parece estar en orden, pero sigue sin poder acceder", "label": "cuenta_acceso"}
+{"text": "Quiero cambiar mi metodo de pago a paypal pero no puedo encontrar la opcion en la pagina, es super incomoda la forma en que esta diseñada", "label": "facturacion_pagos"}
+{"text": "Me gustaria saber como puedo configurar las notificaciones para que se envien solo a ciertos miembros del equipo, actualmente estoy recibiendo demasiadas notificaciones y quiero reducirlas", "label": "consulta_producto"}
+{"text": "no me acuerdo la contraseña y no tengo acceso al correo para recuperarla", "label": "cuenta_acceso"}
+{"text": "quiro dar de baja mi cuenta, ya no la uso y no veo la opcion para hacerlo en la configuracion", "label": "cancelacion_baja"}
+{"text": "la herramienta de automatizacion de correos electrónicos no esta funcionandoBien, siempre me tira error de autenticacion, ya verifique mis credenciales y estan bien, ayúdenme por favor", "label": "problema_tecnico"}
+{"text": "Necesito saber urgentemente como puedo configurar las notificaciones por email para que me lleguen los reportes diarios, no entiendo la documentacion", "label": "consulta_producto"}
+{"text": "Necesito ayuda con la implementacion de la API, no se que parametros debo utilizar", "label": "consulta_producto"}
+{"text": "Tengo problemas para pagar con paypal, me sale un error todo el tiempo", "label": "facturacion_pagos"}
+{"text": "no puedo ingresar al sistema, me sale un mensaje de que mi cuenta ha sido deshabilitada, pero yo no recibí ningun correo electrónico al respecto, ayer todavia podia acceder sin problemas", "label": "problema_tecnico"}
+{"text": "necesito dar de baja la cuenta de mi empresa, ya que estamos migrando a otro sistema, como hago para hacer el proceso de cancelacion?", "label": "cancelacion_baja"}
+{"text": "Desde la última actualización, la aplicación se ha vuelto muy inestable, se cierra sola cada vez que intento acceder a la sección de configuración, ya he intentado reiniciar el navegador y la aplicación pero el problema sigue", "label": "problema_tecnico"}
+{"text": "¿Se puede integrar su herramienta con Trello para seguir el progreso de los proyectos?", "label": "consulta_producto"}
+{"text": "no puedo acceder a mi cuenta, me sale un mensaje que dice que la cuenta esta deshabilitada, por que?", "label": "cuenta_acceso"}
+{"text": "Me gustaria pausar mi cuenta por un mes, no la estoy utilizando ahora", "label": "cancelacion_baja"}
+{"text": "Necesito ayuda urgentemente con la integracion de su plataforma con Google Drive, no se como hacer para que se sincronice automaticamente los documentos", "label": "consulta_producto"}
+{"text": "tengo problemas con el login, me dice que la cuenta está deshabilitada pero no entiendo por qué, ayer sí pude entrar sin problemas", "label": "cuenta_acceso"}
+{"text": "mi factura del mes pasado tiene un monto incorrecto, deberia ser de $49.99 y me cobraron $99.99", "label": "facturacion_pagos"}
+{"text": "Como hago para personalizar el dashboard de inicio?", "label": "consulta_producto"}
+{"text": "no estoy seguro si debo cancelar o pausar mi cuenta, alguien me puede ayudar?", "label": "cancelacion_baja"}
+{"text": "cancelen mi suscripcion ya, no quiero seguir pagando esto es un desastre", "label": "cancelacion_baja"}
+{"text": "la autenticación de dos factores no funciona en mi cuenta, he intentado varias veces y siempre me da error, por favor necesito solucionar esto lo antes posible", "label": "cuenta_acceso"}
+{"text": "Me gustaria cancelar mi plan actual y cambiar a uno mas barato ya que no estoy utilizando todas las funciones del actual", "label": "cancelacion_baja"}
+{"text": "Estoy intentando pausar mi cuenta por un tiempo, no se si es posible, alguien me puede ayudar con eso?", "label": "cancelacion_baja"}
+{"text": "queria saber si puedo reclamar un reembolso parcial por los dias que no use el servicio el mes pasado", "label": "facturacion_pagos"}
+{"text": "Tengo un problema con la autenticación de dos pasos, me parece que alguien más está intentando acceder a mi cuenta porque recibo mensajes de verificación constantemente, ¿cómo puedo deshabilitar esta función o cambiar el método de verificación?", "label": "cuenta_acceso"}
+{"text": "buen dia, desde ayer a la tarde no puedo acceder a la seccion de facturacion, me sale un error que dice 'acceso denegado' pero soy administrador de la cuenta", "label": "problema_tecnico"}
+{"text": "tengo una duda con el cargo por 'impuestos' en mi factura, alguien puede explicarmelo?", "label": "facturacion_pagos"}
+{"text": "necesito ayuda urgentemente, la herramienta de facturacion esta generando montos incorrectos en las facturas electronicas, ya revise la configuracion y todo parece estar bien", "label": "problema_tecnico"}
+{"text": "intente cambiar mi contrasena pero me dice que la nueva contrasena es muy debil, pero yo creo que es bastante segura", "label": "cuenta_acceso"}
+{"text": "quisiera saber como puedo cambiar la contraseña de mi cuenta, no encuentro la opcion en el menu de configuracion", "label": "cuenta_acceso"}
+{"text": "necesito cambiar mi metodo de pago, el actual esta vencido y no se wie puedo agregar otro", "label": "facturacion_pagos"}
+{"text": "tengo un problema con mi factura, no se porque me cobran dos veces al mes", "label": "facturacion_pagos"}
+{"text": "mi tariffa aumentó y no entiendo por qué, alguien me puede dar detalles?", "label": "facturacion_pagos"}
+{"text": "tengo que dar de baja mi suscripcion, no me esta funcionando", "label": "cancelacion_baja"}
+{"text": "Necesito saber urgentemente como puedo configurar la autenticacion de dos pasos en mi cuenta, no entiendo las instrucciones de la ayuda", "label": "consulta_producto"}
+{"text": "Mi jefe me dio permisos de administrador para el sistema pero cuando trato de acceder a la sección de configuración me dice que no tengo permisos suficientes, ¿cómo puedo solucionar esto?", "label": "cuenta_acceso"}
+{"text": "tengo un problema con el acceso a la plataforma, resulta que mi jefe me dio permisos de administrador pero cuando entro a la plataforma no puedo acceder a las opciones de administrador, ¿que podria estar pasando?", "label": "cuenta_acceso"}
+{"text": "estoy teniendo un problema con el acceso a mi cuenta, me sale un mensaje que dice que debo verificar mi cuenta en dos pasos pero no se a que se refiere eso, ya intente hacerlo pero no puedo avanzar", "label": "cuenta_acceso"}
+{"text": "Necesito ayuda con la cuenta de mi empresa, hemos cambiado de administrador y no podemos acceder con la cuenta antigua, alguien me dijo que hay que hacer algo con los permisos de usuario, pero no encuentro donde hacer eso", "label": "cuenta_acceso"}
+{"text": "Mi clave no funciona, la cambie hace unos dias y ahora no puedo entrar, probe con la opcion de recordar clave pero me dice que el usuario no existe", "label": "cuenta_acceso"}
+{"text": "El modulo de facturacion esta generando facturas con montos incorrectos, ya revise los datos y estan bien, no se que pueda estar pasando, alguien puede ayudarme a solucionar esto?", "label": "problema_tecnico"}
+{"text": "no me llega la confirmacion de pago, ya hice el pago hace dias", "label": "facturacion_pagos"}
+{"text": "no encuentro la forma de eliminar mi cuenta, ayuda", "label": "cancelacion_baja"}
+{"text": "Me gustaria saber como puedo deshabilitar la autenticacion de dos factores en mi cuenta, es muy incomodo tener que estar pendiente de mi telefono cada vez que quiero entrar al sistema", "label": "cuenta_acceso"}
+{"text": "Quiero dar de baja mi cuenta de pago, ya no la necesito y quiero evitar cargos adicionales", "label": "cancelacion_baja"}
+{"text": "Quiero saber si se puede personalizar el diseño de los formularios, no me gusta el tema por defecto", "label": "consulta_producto"}
+{"text": "Quiero cambiar de plan porque el que tengo ahora es demasiado caro para lo que uso, ¿hay algun plan mas economico que se adapte a mis necesidades?", "label": "cancelacion_baja"}
+{"text": "Estimados, necesito cancelar mi suscripcion a su plataforma de gestión de proyectos, ya que no la estoy utilizando de la manera que pensaba y me resulta demasiado costosa para mi negocio. Me gustaría saber los pasos a seguir para realizar esta cancelación de manera efectiva.", "label": "cancelacion_baja"}
+{"text": "Hola, necesito cancelar mi subscripcion al servicio de almacenamiento en la nube, ya que mi empresa cambio a otra plataforma y no la voy a utilizar mas, ¿como puedo hacer para cancelarla y no tener cargo algun en mi tarjeta de credito?", "label": "cancelacion_baja"}
+{"text": "Buenas, me gustaría entender mejor cómo funciona la función de exportación automática, ¿se puede programar para que corra todas las semanas?", "label": "consulta_producto"}
+{"text": "¿El producto permite integrarse con Slack? Estamos evaluando la herramienta para todo el equipo.", "label": "consulta_producto"}
+{"text": "tengo un problema con mi cuenta no se que pasa pero ayer pude entrar sin problemas y hoy me dice que la contrasena es incorrecta, intente resetearla pero el link que me mandaron por mail no funciona, alguien me puede ayudar?", "label": "cuenta_acceso"}

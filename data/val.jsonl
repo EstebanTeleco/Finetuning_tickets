@@ -1,0 +1,60 @@
+{"text": "Quiero suspender mi cuenta por un mes ya que no la voy a utilizar en ese periodo", "label": "cancelacion_baja"}
+{"text": "Estoy teniendo un issue raro con el modulo de facturacion, cuando intento generar una factura para un cliente que tiene多plees direcciones, el sistema se crashea y me muestra un error 500, no entiendo que puede estar pasando", "label": "problema_tecnico"}
+{"text": "Tengo que cancelar mi cuenta de inmediato porque ya no estoy trabajando en el proyecto para el que la utilicaba, ¿como hago para no seguir siendo cobrado?", "label": "cancelacion_baja"}
+{"text": "Quisiera saber si el plan básico incluye la opción de personalizar el diseño de los informes", "label": "consulta_producto"}
+{"text": "tengo un problema con la verificacion en dos pasos, me llega el codigo pero cuando lo ingreso me dice que es incorrecto, ya intente varias veces y no puedo avanzar, alguien puede ayudarme?", "label": "cuenta_acceso"}
+{"text": "quiro saber si el plan basico me deja enviar correos automaticos a mis clientes, no encuentro esa opcion", "label": "consulta_producto"}
+{"text": "tengo un problema con el pago automatico, cada mes me cobran con un dia de atraso y eso me causa problemas con mi banco", "label": "facturacion_pagos"}
+{"text": "Mi plan se renovó automaticamente y yo no queria, como hago para cambiar a un plan mas barato y solicitar un reembolso por la diferencia?", "label": "facturacion_pagos"}
+{"text": "me gustaria saber como puedo obtener un reembolso por el mes que no use el servicio", "label": "facturacion_pagos"}
+{"text": "me gustaria saber si es posible crear un usuario invitado con acceso limitado a ciertas secciones de la plataforma, y como puedo hacer para configurar los permisos de ese usuario", "label": "consulta_producto"}
+{"text": "intente cambiar mi contrasena pero me sale un mensaje que dice que la nueva contrasena no es segura, pero si es segura porque tiene mayusculas, minusculas, numeros y simbolos, no entiendo", "label": "cuenta_acceso"}
+{"text": "me subieron el precio del plan sin avisarme y ahora no tengo dinero para pagarlo, como puedo solicitar un descuento o cambiar a un plan mas economico?", "label": "facturacion_pagos"}
+{"text": "necesito ayuda con la autenticacion de dos factores, ya que me cambiaron el numero de telefono y no puedo recibir los codigos de verificacion, como puedo actualizar mi numero de telefono para seguir accediendo a mi cuenta?", "label": "cuenta_acceso"}
+{"text": "Hola equipo de soporte, espero que estén bien. Quería consultar sobre el cambio de precio en mi plan de suscripción, ya que noté que el último cargo fue mayor al habitual. Revisé mi contrato y no encontré ninguna notificación sobre este aumento, así que me gustaría saber si hay algún error o si es un cambio reciente en la política de precios. Podrían ayudarme a entender esto?", "label": "facturacion_pagos"}
+{"text": "Desde hace unas horas, la pagina de pago no esta funcionando correctamente, los clientes no pueden realizar pagos y esto me esta generando grandes perdidas, necesito uma solucion inmediata", "label": "problema_tecnico"}
+{"text": "necesito ayuda con la cuenta de mi empresa, tenemos varios usuarios y queremos asignar permisos diferentes a cada uno, pero no encontramos la opcion para hacerlo", "label": "cuenta_acceso"}
+{"text": "la funcion de busqueda no me muestra resultados relevantes, es como si no funcionara", "label": "problema_tecnico"}
+{"text": "Tengo una duda sobre la integracion con google drive, ¿se puede hacer con el plan basico o hay que pagar extra?", "label": "consulta_producto"}
+{"text": "El módulo de gestión de proyectos no me muestra las tareas pendientes de mis colaboradores, solo aparecen las mías, ya intenté refrescar y nada", "label": "problema_tecnico"}
+{"text": "como hago para invitar a mas usuarios a mi cuenta, no encuentro esa opcion en ningun lado", "label": "consulta_producto"}
+{"text": "Mi compañero de equipo no puede acceder a la sección de informes del sistema, ya le di los permisos correspondientes pero sigue sin poder acceder, ¿qué puede estar pasando?", "label": "cuenta_acceso"}
+{"text": "no se porque me cobran dos veces al mes", "label": "facturacion_pagos"}
+{"text": "Hola equipo de soporte, tengo un problema con la herramienta de calendarizacion, cuando intento programar una tarea, me sale un error que dice 'no se puede guardar la tarea', ya he intentado reiniciar el sistema y volver a intentarlo, pero el problema sigue, estoy utilizando la version 3.1 del software, y he notado que el problema solo ocurre cuando selecciono la opcion de 'Repetir tarea'", "label": "problema_tecnico"}
+{"text": "quiere saber si el plan empresarial incluye soporte prioritario", "label": "consulta_producto"}
+{"text": "la funcion de reportes no anda bien, hago un reporle de ventas y me trae datos de hace 2 meses, a pesar de que le pido que me muestre los datos de la semana actual, ya intente reiniciar el sistema y nada", "label": "problema_tecnico"}
+{"text": "me gustaria dar de baja mi cuenta por que no la voy a utiliar mas", "label": "cancelacion_baja"}
+{"text": "El sistema de estadisticas no me muestra los datos correctos, a veces los numeros no cuadran con lo que yo espero, y nose como puedo resolver este problema, necesito ayuda urgente", "label": "problema_tecnico"}
+{"text": "Estoy teniendo un problema con mi cuenta, no puedo acceder porque me pide la verificación en dos pasos y no tengo acceso al correo con el que me registre, ¿hay alguna forma de recuperar el acceso?", "label": "cuenta_acceso"}
+{"text": "Tengo un problema con mi factura, me cobraron por 2 años en lugar de 1, ¿alguien puede ayudarme a arreglar esto?", "label": "facturacion_pagos"}
+{"text": "me esta pidiendo verificar mi cuenta en dos pasos pero no se como hacerlo", "label": "cuenta_acceso"}
+{"text": "tengo un problema con el metodo de pago, no me permite realizar el pago con mi tarjeta", "label": "facturacion_pagos"}
+{"text": "Quiero saber si se puede personalizar el dashboard para que se ajuste a mis necesidades especificas, hay alguna guia para hacerlo?", "label": "consulta_producto"}
+{"text": "Hola, quiero saber como puedo conectar mi cuenta de google drive con su herramienta, he visto que hay una opcion para hacerlo pero no logro encontrarla en la configuracion de mi cuenta", "label": "consulta_producto"}
+{"text": "Quisiera bajar de plan premium a plan básico, el actual me resulta muy caro para lo que uso.", "label": "cancelacion_baja"}
+{"text": "hola disculpen no me llega la factura del mes pasado la necesito para contabilidad urgente porfavor", "label": "facturacion_pagos"}
+{"text": "necesito ayuda con la verificacion en dos pasos, no me llegan los codigos", "label": "cuenta_acceso"}
+{"text": "Estoy intentando dar de baja mi cuenta de prueba pero no encuentro la opcion de eliminarla", "label": "cancelacion_baja"}
+{"text": "hola, estoy tratando de actualizar mi información de pago porque mi tarjeta de crédito caducó, pero no puedo avanzar en el proceso. alguien puede ayudarme por favor?", "label": "facturacion_pagos"}
+{"text": "me sale un mensaje de error al intentar conectar con la api de pago, dicen que es un problema de certificado ssl", "label": "problema_tecnico"}
+{"text": "como doy de baja la cuenta de mi empresa, ya no vamos a seguir usando el servicio", "label": "cancelacion_baja"}
+{"text": "Estoy teniendo problemas con mi pago, me dicen que mi tarjeta de crédito es inválida pero yo sé que está vigente. ya intenté 3 veces y no puedo avanzar", "label": "facturacion_pagos"}
+{"text": "hola equipo de soporte, tengo un problema con la integración con mi base de datos, no se actualizan los datos en la plataforma aunque los actualice en la base", "label": "problema_tecnico"}
+{"text": "no puedo ver los comentarios en la seccion de proyecto, dice que no tengo permisos", "label": "problema_tecnico"}
+{"text": "se puede integrar con zapier?", "label": "consulta_producto"}
+{"text": "estoy muy molesto con el servicio y quiero cancelar mi cuenta de inmediato", "label": "cancelacion_baja"}
+{"text": "Estoy evaluando opciones de software para mi negocio y quiero saber si tu plataforma ofrece una version de prueba gratuita", "label": "consulta_producto"}
+{"text": "Quiero saber si puedo reembolsar mi ultima compra porque no estoy satisfecho", "label": "facturacion_pagos"}
+{"text": "Estoy intentando cancelar mi suscripcion pero no puedo encontrar la opcion en la pagina web, ¿pueden hacerlo por mi lo antes posible?", "label": "cancelacion_baja"}
+{"text": "mi cuenta esta bloqueada y no se por que, no recuerdo haber hecho nada raro, alguien me puede ayudar a desbloquearla?", "label": "cuenta_acceso"}
+{"text": "tengo una duda con la integracion con google drive, no puedo conectar mi cuenta y no se que estoy haciendo mal", "label": "consulta_producto"}
+{"text": "Desde ayer a las 10hs la aplicación se queda congelada cuando intento acceder a la sección de informes, ya reinicie mi computadora y sigue igual, los logs de la aplicación no muestran nada anormal", "label": "problema_tecnico"}
+{"text": "Tengo una pregunta sobre la verificación en dos pasos, ¿por qué a veces me pide el código de verificación y otras veces no? Estoy un poco confundido con este proceso y me gustaría saber si hay algo que pueda hacer para simplificarlo", "label": "cuenta_acceso"}
+{"text": "Desde la ultima actualizacion del software, el dashboard de administrador se me carga muy lentamente, a veces tengo que esperar como 20 segundos para que se cargue todo, antes era mucho mas rapido, que puedo hacer para solucionar esto?", "label": "problema_tecnico"}
+{"text": "Estoy teniendo problemas para acceder a mi cuenta, me sale un error de contraseña incorrecta aunque estoy seguro de que la estoy escribiendo bien, ya intente recuperarla pero no me llega el correo de verificacion", "label": "cuenta_acceso"}
+{"text": "tengo un problema con el acceso a mi cuenta, ya que comparto la cuenta con varios usuarios y necesito saber como puedo agregar o eliminar usuarios, ademas de asignar permisos especificos a cada uno, es importante que me den una solucion rapida", "label": "cuenta_acceso"}
+{"text": "Me gustaria cambiar mi plan a uno mas basico porque no estoy utilizando todas las herramientas", "label": "cancelacion_baja"}
+{"text": "tengo una cuenta pausada hace meses y ahora quiero reactivarla, pero no se como hacer, alguien puede decirme los pasos a seguir, por favor?", "label": "cancelacion_baja"}
+{"text": "Tengo un problema con mi suscripcion, sigo recibiendo cargos aunque ya cancele mi cuenta, alguien me puede explicar que pasa?", "label": "cancelacion_baja"}
+{"text": "Tengo problemas para conectar mi cuenta de facebook con la plataforma, me da un error de autorizacion, que hago?", "label": "consulta_producto"}
+{"text": "Tengo que dar de baja mi cuenta ya que la empresa donde trabajo cambio de proveedor y no podremos seguir utilizando vuestro software", "label": "cancelacion_baja"}
