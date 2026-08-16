@@ -1,0 +1,14 @@
+{
+  "TF-IDF + LogReg": {
+    "accuracy": 0.95,
+    "f1_macro": 0.951
+  },
+  "Llama-3.2-3B (zero-shot)": {
+    "accuracy": 0.533,
+    "f1_macro": 0.481
+  },
+  "Llama-3.2-3B + QLoRA (fine-tuneado)": {
+    "accuracy": 0.917,
+    "f1_macro": 0.915
+  }
+}
