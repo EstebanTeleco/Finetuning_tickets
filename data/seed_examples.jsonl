@@ -1,0 +1,39 @@
+{"text": "Buenas tardes, me cobraron dos veces la suscripción este mes. Ya revisé mi estado de cuenta y aparecen dos cargos de $29.99 el mismo día. Necesito que me reembolsen uno.", "label": "facturacion_pagos"}
+{"text": "hola disculpen no me llega la factura del mes pasado la necesito para contabilidad urgente porfavor", "label": "facturacion_pagos"}
+{"text": "Intenté actualizar mi tarjeta de crédito pero el sistema me da error 402 cada vez que guardo los datos. Ya probé con dos tarjetas distintas.", "label": "facturacion_pagos"}
+{"text": "quiero saber x q me subio el precio del plan de la nada nadie me aviso nada", "label": "facturacion_pagos"}
+{"text": "Solicito un reembolso completo del último trimestre, no estoy conforme con el servicio y así lo indica mi contrato.", "label": "facturacion_pagos"}
+{"text": "Se me venció la tarjeta y no encuentro dónde cambiar el método de pago en la app, alguien me puede guiar?", "label": "facturacion_pagos"}
+{"text": "Buenas, ¿es posible pasar de facturación mensual a anual? quiero ver si me sale más barato", "label": "facturacion_pagos"}
+{"text": "no entiendo por que en la factura aparece un cargo de \"servicio adicional\" que yo nunca contrate, expliquenme", "label": "facturacion_pagos"}
+{"text": "La aplicación se cierra sola cada vez que intento exportar un reporte en PDF. Pasa en iOS 17, ya reinicié el teléfono y sigue igual.", "label": "problema_tecnico"}
+{"text": "hace dos dias que no puedo subir archivos, se queda cargando para siempre y despues tira error de tiempo agotado", "label": "problema_tecnico"}
+{"text": "Detecté un bug: cuando edito un registro y le doy guardar dos veces seguidas, se duplica el registro completo.", "label": "problema_tecnico"}
+{"text": "el dashboard no me carga los graficos, solo aparece un espacio en blanco, uso chrome actualizado", "label": "problema_tecnico"}
+{"text": "Buen día, la integración con nuestro CRM dejó de sincronizar desde ayer a las 14hs aprox. Los logs muestran timeout constante.", "label": "problema_tecnico"}
+{"text": "no anda nada la pagina esta caida hace 1 hora ya reintente varias veces", "label": "problema_tecnico"}
+{"text": "El buscador interno no está devolviendo resultados correctos, busco por nombre de cliente y me trae registros que no corresponden.", "label": "problema_tecnico"}
+{"text": "se me borro todo el trabajo de hoy no guardo nada la app se cerro sola estoy re enojado", "label": "problema_tecnico"}
+{"text": "No puedo iniciar sesión, dice que mi contraseña es incorrecta pero estoy seguro de que la escribo bien. Ya intenté 5 veces.", "label": "cuenta_acceso"}
+{"text": "me llego el codigo de verificacion pero cuando lo pongo dice que expiro, y no me deja pedir otro", "label": "cuenta_acceso"}
+{"text": "Necesito recuperar el acceso a mi cuenta, cambié de número de teléfono y ya no me llega el SMS de verificación.", "label": "cuenta_acceso"}
+{"text": "mi compañero de equipo no puede entrar al panel de administrador aunque yo ya le di los permisos correspondientes", "label": "cuenta_acceso"}
+{"text": "Solicito habilitar la autenticación de dos factores en mi cuenta, no encuentro la opción en configuración.", "label": "cuenta_acceso"}
+{"text": "hola llevo 20 min tratando de resetear mi clave y el link del mail no funciona, dice que la pagina no existe", "label": "cuenta_acceso"}
+{"text": "Buenas, me gustaría entender mejor cómo funciona la función de exportación automática, ¿se puede programar para que corra todas las semanas?", "label": "consulta_producto"}
+{"text": "que diferencia hay entre el plan pro y el plan business? no me queda claro en la pagina", "label": "consulta_producto"}
+{"text": "¿El producto permite integrarse con Slack? Estamos evaluando la herramienta para todo el equipo.", "label": "consulta_producto"}
+{"text": "como hago para invitar a mas usuarios a mi cuenta, no encuentro esa opcion en ningun lado", "label": "consulta_producto"}
+{"text": "Quisiera saber si hay límite de almacenamiento en el plan gratuito y qué pasa si lo supero.", "label": "consulta_producto"}
+{"text": "tienen alguna guia o tutorial para configurar las notificaciones automaticas? soy nuevo usando esto", "label": "consulta_producto"}
+{"text": "Estoy evaluando contratar el servicio para mi empresa, ¿ofrecen alguna demo personalizada o prueba extendida?", "label": "consulta_producto"}
+{"text": "Quiero cancelar mi suscripción a partir del próximo mes, ya no la estoy utilizando. ¿Cuál es el procedimiento?", "label": "cancelacion_baja"}
+{"text": "como doy de baja la cuenta de mi empresa, ya no vamos a seguir usando el servicio", "label": "cancelacion_baja"}
+{"text": "Quisiera bajar de plan premium a plan básico, el actual me resulta muy caro para lo que uso.", "label": "cancelacion_baja"}
+{"text": "cancelen mi suscripcion ya, no quiero seguir pagando esto es un desastre", "label": "cancelacion_baja"}
+{"text": "Antes de cancelar quisiera saber si pierdo el acceso a mis datos históricos o puedo exportarlos primero.", "label": "cancelacion_baja"}
+{"text": "necesito pausar mi cuenta por 3 meses, no se puede eliminar del todo, hay alguna opcion asi?", "label": "cancelacion_baja"}
+{"text": "Buenas tardes, quiero confirmar la cancelación de mi cuenta, envié la solicitud hace una semana y sigo viendo cargos.", "label": "cancelacion_baja"}
+{"text": "che como hago para eliminar mi cuenta definitivamente, no encuentro la opcion en configuracion", "label": "cancelacion_baja"}
+{"text": "El monto que me cobraron no coincide con lo que dice mi plan contratado, ¿pueden revisar?", "label": "facturacion_pagos"}
+{"text": "la app anda muy lenta desde la ultima actualizacion, tarda como 10 segundos en cargar cada pantalla", "label": "problema_tecnico"}
