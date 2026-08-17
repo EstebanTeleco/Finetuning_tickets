@@ -10,11 +10,11 @@ Un RAG resuelve bien preguntas sobre una base de conocimiento, pero para clasifi
 
 | Método | Accuracy | F1 (macro) |
 |---|---|---|
-| TF-IDF + Regresión Logística | XX.X% | XX.X% |
-| Llama-3.2-3B zero-shot (sin fine-tuning) | XX.X% | XX.X% |
-| Llama-3.2-3B + QLoRA | XX.X% | XX.X% |
+| TF-IDF + Regresión Logística | 95.0% | 95.1% |
+| Llama-3.2-3B zero-shot (sin fine-tuning) | 53.3% | 48.1% |
+| Llama-3.2-3B + QLoRA | 91.7% | 91.5% |
 
-(completar corriendo `notebooks/03_evaluar.py` y pegando lo que salga en `resultados_evaluacion.json`)
+El fine-tuning mejoró bastante sobre el modelo base, pero el baseline de TF-IDF resultó ligeramente superior en este dataset sintético. Esto tiene sentido: al ser generado por un LLM, el dataset probablemente tiene un vocabulario más marcado y predecible por categoría que el que tendría texto real, lo cual favorece directamente a un método como TF-IDF que se apoya en frecuencia de palabras. Con datos reales y más variados, la ventaja de un modelo con mejor comprensión semántica como Llama debería notarse más — queda pendiente validar esto con una muestra de tickets reales.
 
 Gráficos en `resultados/comparacion_metodos.png` y `resultados/matriz_confusion.png`.
 
@@ -55,7 +55,7 @@ modelo_finetuneado/        adapter LoRA
 
 ## Algunas decisiones
 
-QLoRA en vez de fine-tuning completo porque con 16GB de VRAM (T4 gratuita) no entra otra cosa, y de paso solo se entrena ~1-2% de los parámetros. Los ejemplos semilla ayudan a que el dataset generado no salga repetitivo, que es lo que pasa si le pedís a un LLM 500 ejemplos de una sin ningún anclaje. Y la comparación contra TF-IDF está porque un modelo de 3B con fine-tuning no siempre le gana a algo mucho más simple — mejor medirlo que asumirlo.
+QLoRA en vez de fine-tuning completo porque con 16GB de VRAM (T4 gratuita) no entra otra cosa, y de paso solo se entrena ~1-2% de los parámetros. Los ejemplos semilla ayudan a que el dataset generado no salga repetitivo, que es lo que pasa si le pedís a un LLM 500 ejemplos de una sin ningún anclaje. Y la comparación contra TF-IDF está porque un modelo de 3B con fine-tuning no siempre le gana a algo mucho más simple — mejor medirlo que asumirlo, y en este caso la duda estaba justificada: TF-IDF terminó ganando.
 
 ## Para seguir
 
